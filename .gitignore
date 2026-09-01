@@ -1,23 +1,41 @@
-# Root (no package.json belongs here — app lives in web/)
-/node_modules/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Website
-web/node_modules/
-web/.next/
-web/.env*
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# Admin dashboard
-admin/node_modules/
-admin/.next/
-admin/.env*
-admin/next-env.d.ts
-admin/*.tsbuildinfo
+# testing
+/coverage
 
-# Go backend
-backend/backend
-backend/backend.exe
-backend/.env
+# next.js
+/.next/
+/out/
 
-# General
+# production
+/build
+
+# misc
 .DS_Store
 *.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

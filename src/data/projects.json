@@ -1,0 +1,4151 @@
+{
+  "projects": [
+    {
+      "slug": "family",
+      "name": "Family Safety Tyres",
+      "description": "Safe tyres for your family. Perth's most trusted tyre shop for honest advice, free safety checks, and all inclusive pricing.",
+      "heroData": {
+        "sectionColor": "#0D7B76",
+        "heroSliderImages": [
+          "/family_safety_tyres_icons/hero_images/hero1.webp",
+          "/family_safety_tyres_icons/hero_images/hero2.webp",
+          "/family_safety_tyres_icons/hero_images/hero3.webp",
+          "/family_safety_tyres_icons/hero_images/hero4.webp",
+          "/family_safety_tyres_icons/hero_images/hero5.webp",
+          "/family_safety_tyres_icons/hero_images/hero6.webp"
+        ],
+        "backgroundColor": "#0B1C3A",
+        "heroTopBarTxt": "Family safety specialists",
+        "heroTopBarBtn": "Book Safety Check",
+        "heroEyebrow": "Tyrepower WA’s Dealer of the Year 2025",
+        "heroheader": {
+          "highlight": "On These Roads Every Day.",
+          "main": "Your Family Travels"
+        },
+        "heroPhara": "When the kids are in the car, you need to know the tyres are genuinely safe not just \"probably fine.\" At Kewdale Tyrepower, we check everything properly, tell you exactly what we find, and never recommend work that isn't needed.",
+        "heroMainBtn": "Book a Free Safety Check",
+        "heroProof": [
+          "4.7 / 5 300+ Google Reviews \"Always honest. Never felt pressured. My family's go to.\"",
+          "Trusted by Perth families for many years SUVs · People movers · Family wagons"
+        ],
+        "heroStatusBar": [
+          {
+            "number": "FREE",
+            "unit": " CHECK",
+            "lable": "Full tyre safety inspection"
+          },
+          {
+            "number": "25",
+            "unit": "+ YRS",
+            "lable": "Perth families trust us"
+          },
+          {
+            "number": "$0",
+            "unit": " HIDDEN",
+            "lable": "Upfront price every time"
+          },
+          {
+            "number": "SAME",
+            "unit": "-DAY",
+            "lable": "Book in around school runs"
+          }
+        ]
+      },
+      "googleReviewData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#e6f4f3",
+        "proofLable": "Trusted by Perth families honest, safe, done properly. No exceptions.",
+        "proofData": [
+          {
+            "icon": "/family_safety_tyres_icons/free.png",
+            "number": "Free",
+            "unit": "",
+            "line1": "Safety check, no obligation",
+            "line2": ""
+          },
+          {
+            "icon": "/family_safety_tyres_icons/fees.png",
+            "number": "$0",
+            "unit": "",
+            "line1": "Hidden fees, ever",
+            "line2": ""
+          },
+          {
+            "icon": "/family_safety_tyres_icons/safety.png",
+            "number": "90",
+            "unit": "MIN",
+            "line1": "While you wait (Subject to availability)",
+            "line2": ""
+          },
+          {
+            "icon": "/family_safety_tyres_icons/family.png",
+            "number": "25",
+            "unit": "+ yrs",
+            "line1": "Serving Perth families",
+            "line2": ""
+          }
+        ]
+      },
+      "proofData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#e6f4f3",
+        "borderColor": "#0D7B7633"
+      },
+      "problemData": {
+        "slug": "",
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#e6f4f3",
+        "borderColor": "#0D7B7633",
+        "problemEyebrow": "The worry you can't shake",
+        "problemheader": {
+          "highlightColor": "#FFFFFF",
+          "main": "Most Parents Have No Way Of Knowing If Their Family Car's Tyres Are",
+          "highlight": " Actually Safe.",
+          "seccondaryText": ""
+        },
+        "problemPhara": "You drive the kids to school, to sport, to birthday parties. You're on these roads every single day. And somewhere in the back of your mind is a question you can never quite answer: are the tyres okay?\n\nYou shouldn't have to guess. But most tyre shops don't make it easy to get a straight answer. Some tell you everything needs replacing when it doesn't. Some wave you through without really checking. Neither gives you the peace of mind you actually need.",
+        "problemQuote": "\"I just wanted someone to look at the tyres and tell me honestly are they safe for the kids? Instead I got a sales pitch. I left more confused than when I arrived.\"",
+        "problemCite": "Perth mum, Google review",
+        "problemPainCard": [
+          {
+            "icon": "/family_safety_tyres_icons/safety.png",
+            "title": "Not knowing if the tyres are actually safe",
+            "description": "Tread looks okay on the outside but you can't tell if there's damage, cracking, or hidden wear. Without a proper check, you're driving on hope."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/family.png",
+            "title": "Being pushed into replacing tyres you don't need",
+            "description": "Shops that recommend work because of commissions, not because your tyres actually need it. You have no way to tell if you're being told the truth."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/warning.png",
+            "title": "Ignored or talked down to",
+            "description": "Going into a tyre shop and feeling like your questions aren't worth answering properly. Or being given jargon instead of a straight answer you can actually act on."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/clock.png",
+            "title": "Booking around the school run is impossible",
+            "description": "Shops with hours that don't fit a family schedule. Long waits you can't plan around. No option to bring the kids in or drop the car and come back."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/dollar.png",
+            "title": "Price surprises when you come to pick up",
+            "description": "Quoted one thing, charged another. Extra services added on without asking. You came in for a straightforward job and left wondering if you got taken advantage of."
+          }
+        ],
+        "problemBridgeTxt": "There's a better answer",
+        "problemBridgeTxtStrongColor": "",
+        "problemBridgeTxtStrong": "Honest. Thorough. Done at a time that suits your family."
+      },
+      "amplifyData": {
+        "slugName": "",
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B7633",
+        "backgroundColor": "#0D7B761a",
+        "amplifyEyebrow": "The risk is real",
+        "amplifyheader": {
+          "highlight": "They Just Fail.",
+          "main": "Worn Or Damaged Tyres Don't Announce Themselves."
+        },
+        "amplifyPhara": "Most tyre related incidents happen on dry roads, at ordinary speeds, because something was already wrong with the tyres. Here's what the data shows.",
+        "amplifyCal": "false",
+        "amplifyItems": [
+          {
+            "tag": "Road Safety",
+            "number": "1.5MM",
+            "title": "Legal minimum tread depth in WA most drivers don't know theirs",
+            "desc": "Below 1.5mm is illegal and dramatically increases wet braking distances. Drivers rarely check until something goes wrong."
+          },
+          {
+            "tag": "Wet Weather",
+            "number": "40%",
+            "title": "Worse braking performance with worn vs. new tyres in wet conditions",
+            "desc": "At 100km/h in the rain, a car on worn tyres can take an extra 8+ metres to stop compared to new tyres. That's the difference between safe and not."
+          },
+          {
+            "tag": "Hidden Damage",
+            "number": "1 IN 4",
+            "title": "Vehicles have at least one tyre that needs attention most owners don't know",
+            "desc": "Sidewall cracking, internal damage from kerb hits, and uneven wear aren't visible from a walk around. Only a proper inspection reveals them."
+          },
+          {
+            "tag": "Inflation",
+            "number": "20%",
+            "title": "Of vehicles on Perth roads are running on significantly under inflated tyres",
+            "desc": "Under inflation causes overheating, uneven wear, and handling instability. It also reduces fuel efficiency by up to 3% per year."
+          },
+          {
+            "tag": "Alignment",
+            "number": "3×",
+            "title": "Faster tyre wear when alignment is off tyres that should last 3 years last 1",
+            "desc": "One kerb hit or pothole can knock alignment out. The car still drives but the tyres are quietly eating themselves from the inside."
+          },
+          {
+            "tag": "Blowouts",
+            "number": "80%",
+            "title": "Of tyre failures are preventable with regular inspection and maintenance",
+            "desc": "Most blowouts don't \"just happen.\" They're the result of problems that went undetected and unaddressed for months."
+          }
+        ],
+        "amplifyKickerlbl": "The bottom line",
+        "amplifyKickerHeader": {
+          "highlightColor": "#0D7B76",
+          "highlight": "Starts With What's Touching The Road.",
+          "main": "Your Family's Safety"
+        },
+        "amplifyKickerPhara": "The good news is that most tyre problems are completely avoidable with regular checking and honest advice. That's exactly what we provide free, no pressure, no obligation.",
+        "amplifyKickerBtn": "Book a Free Safety Check"
+      },
+      "solutionData": {
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B76",
+        "backgroundColor": "#0D7B761a",
+        "solutionEyebrow": "A tyre shop that actually works for families",
+        "solutionHeader": {
+          "main": "Kewdale Tyrepower",
+          "highlight": "Honest Advice.",
+          "second": "Safe Tyres. No Pressure. Ever."
+        },
+        "solutionPhara1": "We know what it feels like to take the car to a tyre shop and not quite trust what you're being told. At Kewdale Tyrepower, our job is to give you a straight answer and then let you decide.",
+        "solutionPhara2": "We check every tyre properly: tread depth on all four, sidewall condition, inflation pressure, and visible wear patterns. We show you what we find and explain it in plain language. If the tyres are fine, we tell you they're fine.",
+        "solutionPhara3": "If something does need doing, we quote you a price before we start and that's the price you pay. No extras at the counter, no pressure, no jargon.",
+        "solutionPromiseLbl": "Our Promise to Perth Families",
+        "solutionPromiseDecs": "\"We will never recommend work that isn't genuinely needed. If your tyres are safe, we'll tell you they're safe and send you on your way no charge for the check.\"",
+        "solutionPillarItems": [
+          {
+            "num": "01",
+            "title": "Free Safety Check Honest Result, No Obligation",
+            "desc": "We check all four tyres: tread depth, sidewall condition, pressure, and wear. We show you what we found. No charge for the check, no pressure to buy anything."
+          },
+          {
+            "num": "02",
+            "title": "We Only Recommend What You Actually Need",
+            "desc": "No commission driven upsells. No \"just to be safe\" replacements. If your tyres are fine for another 12 months, we'll tell you that because it's the truth."
+          },
+          {
+            "num": "03",
+            "title": "Upfront Price, No Surprises at the Counter",
+            "desc": "Whatever we quote before we start is what you pay. Fitment, balancing, disposal all included. No extras appear when you come to collect the car."
+          },
+          {
+            "num": "04",
+            "title": "Times That Fit Around Your Family",
+            "desc": "Same day and next day bookings available. Drop the car off, bring the kids, or wait while we work most jobs take 90 minutes or less.(Subject to availability)"
+          }
+        ],
+        "solutionRoadMapItems": [
+          {
+            "num": "01",
+            "title": "Book a Time",
+            "desc": "Call or book online. Same day available, times that suit school runs.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 1"
+          },
+          {
+            "num": "02",
+            "title": "We Check Everything",
+            "desc": "All four tyres checked properly. Tread, pressure, sidewalls, wear patterns.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 2"
+          },
+          {
+            "num": "03",
+            "title": "You Get a Straight Answer",
+            "desc": "Plain language. What we found, what it means, what (if anything) you need.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 3"
+          },
+          {
+            "num": "04",
+            "title": "Drive Away With Confidence",
+            "desc": "Safe tyres confirmed, work done at the agreed price. No drama.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 4"
+          }
+        ]
+      },
+      "servicesData": {
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B7633",
+        "backgroundColor": "#e6f4f3",
+        "serviceEyebrow": "What we do",
+        "serviceHeader": {
+          "main": "Everything Your Family Car Needs.",
+          "highlight": "Done Properly."
+        },
+        "serviceTopBtn": "Call Now",
+        "proServiceCard": {
+          "icon": "",
+          "lbl": "Start Here Free",
+          "title": "Family Tyre Safety Check",
+          "time": "15 minutes",
+          "description": "A proper check not a walk around. We measure tread depth on all four tyres, check inflation pressure, inspect sidewalls for cracking or damage, and look for uneven wear.",
+          "includes": [
+            "All 4 tyres checked",
+            "Honest recommendation only",
+            "No obligation zero pressure"
+          ],
+          "cta": "Book check"
+        },
+        "serviceCardItem": [
+          {
+            "icon": "/family_safety_tyres_icons/supply.png",
+            "title": "Tyre Supply & Fitment",
+            "time": "90 minutes",
+            "description": "All major brands in stock for SUVs, people movers, and family wagons. We'll recommend what's right for your vehicle and how you drive honest advice, no upsells.",
+            "includes": [
+              "Supply + fitment",
+              "Wheel balancing included",
+              "Valve stems + disposal included"
+            ],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/family_safety_tyres_icons/alignment.png",
+            "title": "Wheel Alignment",
+            "time": "45 minutes",
+            "description": "Bad alignment wears tyres 2–3× faster and affects how the car handles in an emergency. Especially important for SUVs and people movers carrying the family.",
+            "includes": ["Computerised alignment", "Before & after report"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/family_safety_tyres_icons/tool.png",
+            "title": "Puncture Repair",
+            "time": "30 minutes",
+            "description": "If it's repairable, we repair it properly. We assess every puncture honestly if a replacement isn't needed, we won't suggest one.",
+            "includes": [
+              "Full tyre inspection first",
+              "Internal repair + rebalance"
+            ],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/family_safety_tyres_icons/rotate.png",
+            "title": "Tyre Rotation",
+            "time": "30–40 minutes",
+            "description": "Rotating regularly means your tyres wear evenly and last longer less frequent replacements and consistent safety performance across all four wheels.",
+            "includes": ["All 4 wheels rotated", "Pressure check included"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/family_safety_tyres_icons/balance.png",
+            "title": "Wheel Balancing",
+            "time": "45 minutes",
+            "description": "Vibration through the steering wheel or seat? That's unbalanced wheels causing uneven wear. A quick balance eliminates the issue and extends tyre life.",
+            "includes": ["All 4 wheels balanced"],
+            "cta": "Book now"
+          }
+        ],
+        "bottomServiceItems": [
+          "SUVs & 4WDs",
+          "People Movers",
+          "Family Wagons & Hatchbacks",
+          "Pre road trip Safety Checks",
+          "Multiple Vehicles (Fleet Families)"
+        ]
+      },
+      "offerData": {
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B7633",
+        "backgroundColor": "#e6f4f3",
+        "offerEyebrow": "Choose what you need",
+        "offerHeader": {
+          "highlightColor": "#0D7B76",
+          "highlight": "All Inclusive Pricing.",
+          "mainSubOne": "Quality Tyres.",
+          "mainSubTwo": " No Surprises."
+        },
+        "offerPhara": "Fitment, balancing, valve stems, disposal included in every price below. What we quote is what you pay.",
+        "offerCartOneTitle": "Standard Safety",
+        "offerCardOneDecs": "Affordable, everyday safety performance for SUVs and people movers. Clean, honest value you can trust.",
+        "offerCardOnePrice": "169",
+        "offerCardOneSubPhara": "All major brands in stock",
+        "offerCardOneLbl": "All included",
+        "offerCardOneInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardOneBtn": "Book Now",
+        "offerCardTwoBadge": "Most Popular Best All Round Value",
+        "offerCartTwoTitle": "Total Family Safety",
+        "offerCardTwoDecs": "Our best value for family safety. Includes new tyres, precision alignment, wheel balancing, rotation, and a complete tyre health check to maximize tread life.",
+        "offerCardTwoPrice": "785",
+        "offerCardTwoSubPhara": "Tyre + alignment + full check",
+        "offerCardTwoLbl": "Everything in Safe Drive Protection, plus",
+        "offerCardTwoInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing",
+          "Full tyre rotation",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardTwoIncludedBonus": [
+          "Bonus: Priority booking for next visit",
+          "Bonus: At 5,000 km: One-time free tyre checkup. Every 10,000 km (up to 50,000 km): Rotation, balancing, alignment + 10% off the total bill."
+        ],
+        "offerCardTwoIncludeOthers": [
+        ],
+        "offerCardTwoBtn": "Book This Package",
+        "offerCartThreeTitle": "Safe Drive Protection",
+        "offerCardThreeDecs": "Optimizes your steering control and protects your new tyres from rapid wear with a professional tracking alignment.",
+        "offerCardThreePrice": "278",
+        "offerCardThreeSubPhara": "Tyre + alignment",
+        "offerCardThreeLbl": "Everything in Standard Safety, plus",
+        "offerCardThreeInclude": [
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardThreeBtn": "Book Now",
+        "offerCartFourTitle": "Extend Care",
+        "offerCardFourDecs": "Ongoing safety checks that keep the family car road-ready all year.",
+        "offerCardFourPrice": "39",
+        "offerCardFourSubPhara": "Per scheduled visit",
+        "offerCardFourLbl": "What's included",
+        "offerCardFourInclude": [
+          "Every 10,000km: rotation & balance",
+          "Free alignment check each visit",
+          "Priority family booking slot",
+          "10% off your total bill"
+        ],
+        "offerCardFourBtn": "Add Extend Care",
+        "offerValueEyeBrow": "What you’re actually getting",
+        "offerValueHeader": "The Total Family Safety Package Everything Stacked Up",
+        "offerValueItems": [
+          {
+            "name": "Total Family Safety tyre supply & fitment",
+            "price": "$676",
+            "bonus": false
+          },
+          {
+            "name": "Wheel balancing & rotation",
+            "price": "$140",
+            "bonus": false
+          },
+          {
+            "name": "Computerised wheel alignment",
+            "price": "$109",
+            "bonus": false
+          },
+          {
+            "name": "Tyre Disposal",
+            "price": "$20",
+            "bonus": true
+          }
+        ],
+        "offerSaveLbl": "You save up to",
+        "offerSavePrice": "160",
+        "offerSaveSubLbl": "Worth of services included in your per tyre price",
+        "offerSaveBtn": "Book This Package",
+        "offerTotalLbl": "Your Total Family Safety Package price",
+        "offerTotalOldPrice": "From $945",
+        "offerTotalPrice": "785"
+      },
+      "guaranteeData": {
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B7633",
+        "backgroundColor": "#0D7B7633",
+        "guranteeEyebrow": "Our guarantee",
+        "guranteeheader": {
+          "highlightColor": "#0D7B76",
+          "highlight": "Your Family Car Doesn't Need.",
+          "mainSubOne": "We'll Never Recommend Work",
+          "mainSubTwo": ""
+        },
+        "guranteePhara": "We understand that trust is the most important thing when it comes to your family's safety. So we back it with an explicit guarantee: if we tell you something needs replacing, we can show you exactly why. And if it doesn't need doing we'll say so and send you home.",
+        "guranteeSealIcon": "",
+        "guranteeSealTitle": "Family,Safety",
+        "guranteeSealSubTitle": "GUARANTEED",
+        "guranteeSealCaption": "Honest assessment, done properly, with no pressure to buy anything you don't need.",
+        "guranteePoint": [
+          {
+            "icon": "/family_safety_tyres_icons/tool.png",
+            "title": "Honest Assessment We Show You What We Find",
+            "description": "Every safety check comes with a written report. We show you the tread gauge readings, point out any issues, and explain what they mean in plain language. You can see it for yourself."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/dollar.png",
+            "title": "All Inclusive Price Guarantee",
+            "description": "The price we quote before we start is the price you pay. No disposal fee added at pickup. No balancing charge that wasn't mentioned. No surprises ever."
+          },
+          {
+            "icon": "/family_safety_tyres_icons/clock.png",
+            "title": "Done When We Say No Waiting Around",
+            "description": "We give you a realistic time when you book and we stick to it. Most standard fitments are done in 90 minutes while you wait. No vague \"we'll call you when it's ready.\" (Subject to availability)"
+          }
+        ],
+        "guranteeSigQuote": "\"Perth families have trusted us for many years. We've earned that trust by being straight every single time.\""
+      },
+      "hvcoData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#0B1C3A",
+        "iconBackColor": "#0D7B76",
+        "hvcoEyebrow": "Free Download Family Safety Guide",
+        "hvcoheader": {
+          "highlightColor": "#0D7B76",
+          "highlight": " Up to Scratch?",
+          "mainSubOne": "Is Your Family Car's Tyre Safety",
+          "mainSubTwo": ""
+        },
+        "hvcoPhara": "Before your next school run, long weekend drive, or road trip with the family download our free guide.",
+        "hvcoItems": [
+          "The 5 point tyre safety check how to do it yourself in 5 minutes before a long trip",
+          "What 1.5mm tread actually looks like the WA legal minimum explained simply",
+          "Warning signs of hidden tyre damage cracks, bulges, and uneven wear explained",
+          "How often to check + when to act a simple schedule for family car maintenance",
+          "Questions to ask your tyre shop so you always know you're getting an honest answer"
+        ],
+        "hvcoFormLbl": "Send me the free safety checklist",
+        "hvcoFormInput": [
+          {
+            "name": "name",
+            "placeholder": "First name"
+          },
+          {
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ],
+        "hvcoFormBtn": "Download Free Checklist Instant Access",
+        "hvcoFormBottomLbl": "No spam. We're a tyre shop, not a marketing agency.",
+        "hvcoGuideCoverLbl": "Free Family Guide",
+        "hvcoGuidHeadLine": {
+          "highlight": " Tyre Safety",
+          "main": "Perth Parent's",
+          "second": "Checklist"
+        },
+        "hvcoGuideCoverSub": "5 things to check before every long drive with the family simple, quick, could save a life.",
+        "hvcoCoverBy": "KEWDALE TYREPOWER",
+        "hvcoCoverPages": "12 pages · Free instant download",
+        "hvcoGuideValuesitems": [
+          {
+            "lable": "5 point safety checklist",
+            "price": "$20",
+            "isFree": false
+          },
+          {
+            "lable": "Warning signs guide",
+            "price": "$15",
+            "isFree": false
+          },
+          {
+            "lable": "Questions to ask your shop",
+            "price": "$10",
+            "isFree": false
+          },
+          {
+            "lable": "Your cost today",
+            "price": "FREE",
+            "isFree": true
+          }
+        ]
+      },
+      "faqData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#e6f4f3",
+        "iconBackColor": "#0D7B7612",
+        "boarderColor": "#0D7B7633",
+        "faqEyebrow": "Your questions",
+        "faqheader": {
+          "highlightColor": "#0D7B76",
+          "highlight": "Answers",
+          "mainSubOne": "Straight",
+          "mainSubTwo": " About Safety."
+        },
+        "faqPhara": "The questions we hear most from Perth parents answered plainly, no jargon.",
+        "faqContactLbl": "Still not sure?",
+        "faqContactTitle": "Call us and ask",
+        "faqContactSub": "No sales pitch. Just a straight answer we'll tell you what you need to know.",
+        "faqContactSubBtn": "Book Free Safety Check",
+        "faqCatTopicOne": "Safety & Inspections",
+        "faqCatTopicTwo": "Pricing & Booking",
+        "faqCatTopicThree": "Specific Family Situations",
+        "faqQAItem1": [
+          {
+            "quection": "What does the free safety check actually include?",
+            "answer": "We check all four tyres: tread depth measured with a gauge on every tyre, inflation pressure checked and adjusted, sidewalls inspected for cracking and damage, and wear patterns assessed. We give you a written report of what we found. If everything's fine, we tell you and you drive away no charge, no pressure to buy anything."
+          },
+          {
+            "quection": "How do I know I'm getting an honest recommendation and not a sales pitch?",
+            "answer": "We show you the actual gauge readings and point to the specific tyre with the issue. We never recommend replacing all four if only two need it. We won't recommend work you don't need we've built many years of business on Perth families trusting us, and that trust is worth far more than an extra tyre sale."
+          },
+          {
+            "quection": "When do tyres actually need replacing how will I know?",
+            "answer": "In WA the legal minimum is 1.5mm tread depth. We recommend replacing at 2–3mm for families because wet braking performance starts degrading before the legal limit. We'll show you the actual measurement and explain exactly where you sit. Signs to watch for between checks: vibration, uneven wear, cracking sidewalls, or a soft tyre that keeps losing pressure."
+          }
+        ],
+        "faqQAItem2": [
+          {
+            "quection": "Does the price you quote include everything fitment, balancing, disposal?",
+            "answer": "Yes always. Our prices include the tyre, fitting, wheel balancing, new valve stems, and old tyre disposal. The price we quote is the price you pay. Nothing appears at the counter that wasn't discussed beforehand."
+          },
+          {
+            "quection": "Can I bring the kids? How long will it take?",
+            "answer": "Yes bring the kids, we're family friendly. Most standard fitments take 90 minutes while you wait. A free safety check is about 15 minutes. We'll give you a realistic time when you book. You can also drop the car and come back if that suits you better.(Subject to availability)"
+          },
+          {
+            "quection": "Can I book around school pick up times?",
+            "answer": "Yes. We're open Monday to Friday 8:00am–5:00pm and Saturday 8am–12pm, Sunday Closed. Same day and next day bookings are usually available. Call us and we'll find a time that fits around your schedule including early morning slots before school."
+          }
+        ],
+        "faqQAItem3": [
+          {
+            "quection": "We're going on a road trip what should I check before we go?",
+            "answer": "Before any long trip: tread depth, inflation pressure on all four (don't forget the spare), sidewall condition, and the age of the tyres (rubber degrades with age even if tread looks okay). Our free pre trip safety check covers all of this 15 minutes, no charge. We'd rather you go on the trip knowing everything's right.(Subject to availability)"
+          },
+          {
+            "quection": "I hit a curb pretty hard should I get it checked?",
+            "answer": "Yes absolutely worth getting checked. A hard kerb hit can cause internal tyre damage that isn't visible from outside, and can also knock the wheel alignment out. Both problems are cheap to fix early but potentially serious if ignored. Drive in and we'll take a look free, no obligation."
+          }
+        ]
+      },
+      "urgencyData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#095854",
+        "iconBackColor": "rgba(13,123,118,.1)",
+        "urgencyEyebrow": "This week safety check spots filling fast",
+        "urgencyheader": "Don't Wait Until There's A Problem.",
+        "urgencySecHeader": "A 15 minute check could be the most important thing you do this week.",
+        "urgencyPhara": "Tyre problems don't give much warning. Book your free safety check today school runs, weekend sport, road trips knowing your tyres are genuinely safe.",
+        "urgencySubPhara": [
+          "No obligation if everything's fine we'll tell you and send you home",
+          "Tread below 1.5mm is illegal in WA and a danger to your family long before that"
+        ],
+        "urgencySlotBoxLbl": "Safety check slots remaining today",
+        "urgencySlotBoxCount": "5",
+        "urgencySlotBoxUnit": "spots left",
+        "urgencySlotBoxSub": "Popular times fill fast. Book now to secure yours.",
+        "urgencySlotBoxPrimaryBtn": "Book Free Safety Check",
+        "urgencySlotBoxSecBtn": "Call (08) 9359 1444",
+        "urgencyStrip": [
+          {
+            "icon": "",
+            "stripDescription": "Free check 15 minutes, no obligation (Subject to availability)"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Honest only recommend what's needed"
+          },
+          {
+            "icon": "",
+            "stripDescription": "All inclusive pricing, no surprises"
+          },
+          {
+            "icon": "",
+            "stripDescription": "90 min average service time (Subject to availability)"
+          }
+        ]
+      },
+      "bookingData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#0d1b2a",
+        "accentColor": "#c9a84c",
+        "bookingEyebrow": "Book Online",
+        "bookingHeader": "Book Your Family Safety Check",
+        "bookingPhara": "Pick a time that suits the school run. We'll confirm your slot within the hour and have everything ready when you arrive.",
+        "bookingTrustPoints": [
+          "No deposit required to book",
+          "90 minute average turnaround (Subject to availability)",
+          "Upfront price no surprises",
+          "Free safety check with every tyre change"
+        ],
+        "bookingServiceTypes": [
+          "Tyre Replacement",
+          "Wheel Alignment",
+          "Tyre Rotation",
+          "Safety Check",
+          "Flat Tyre Repair",
+          "Wheel Balancing",
+          "Other"
+        ],
+        "bookingBtn": "Confirm My Booking",
+        "bookingSuccessTitle": "Booking Received!",
+        "bookingSuccessPhara": "We'll confirm your appointment shortly. Check your email for details.",
+        "bookingErrorPhara": "Something went wrong. Please try again or call us on (08) 9359 1444."
+      },
+      "closeData": {
+        "sectionColor": "#0D7B76",
+        "backgroundColor": "#e6f4f3",
+        "iconBackColor": "#0D7B7612",
+        "boarderColor": "#0D7B7633",
+        "sectionThirteenEyebrow": "Your family deserves this",
+        "sectionThirteenHeading": {
+          "main": "Parents Who Take Safety Seriously Choose Kewdale.",
+          "highlight": "And Now You Know Why."
+        },
+        "sectionThirteenPhara": "Honest assessment. Upfront pricing. Only recommend what's genuinely needed. That's what many years of Perth families trusting us looks like.",
+        "sectionThirteenPrimaryBtn": "Book Free Safety Check",
+        "sectionThirteenSecBtn": "Call (08) 9359 1444",
+        "sectionThirteenCloseTrust": [
+          {
+            "icon": "",
+            "description": "Free safety check included"
+          },
+          {
+            "icon": "",
+            "description": "Only recommend what's needed"
+          },
+          {
+            "icon": "",
+            "description": "All inclusive pricing"
+          },
+          {
+            "icon": "",
+            "description": "4.7 stars · 300+ reviews"
+          }
+        ],
+        "sectionThirteenCloseInfo": [
+          {
+            "id": 1,
+            "infoTitle": "Find Us in Kewdale",
+            "infoDescription": "Easy to reach from Belmont, Victoria Park, Carlisle, and Welshpool. Plenty of parking bring the kids."
+          },
+          {
+            "id": 2,
+            "infoTitle": "Trading Hours",
+            "infoDescription": "Mon – Fri: 8:00 AM – 5:00 PM,Saturday: 8:00 AM – 12:00 PM,Sunday: Closed,Early morning slots available for busy parents."
+          },
+          {
+            "id": 3,
+            "infoTitle": "Call or Book Online",
+            "infoDescription": "Phone: (08) 9359 1444,Email: kewdale@tyrepower.com.au,We pick up the phone. No wait time no robot."
+          }
+        ],
+        "sectionThirteenCloseFooter": [
+          {
+            "label": "Privacy Policy",
+            "target": "privacy-policy"
+          },
+          {
+            "label": "Terms",
+            "target": "terms-of-service"
+          },
+          {
+            "label": "Tyre Brands",
+            "target": "proof"
+          },
+          {
+            "label": "Safety tyres",
+            "target": "service"
+          },
+          {
+            "label": "Google Reviews",
+            "target": "testimonials"
+          }
+        ]
+      },
+      "testimonialsData": {
+        "sectionColor": "#0D7B76",
+        "borderColor": "#0D7B7633",
+        "backgroundColor": "#0D7B761a",
+        "testimonialsEyeBrow": "Perth families who trust us",
+        "testimonialsHeader": {
+          "highlightColor": "#0D7B76",
+          "highlight": "Honest Advice",
+          "mainSubOne": "The Shop Where",
+          "mainSubTwo": " Is Just Normal."
+        },
+        "testimonialsTopReviewSection": "I went in not knowing if I needed new tyres or not, with my two kids in tow. They checked all four, showed me the tread gauge, explained what was fine and what wasn't and only recommended replacing the two that were actually worn, not all four. I nearly cried with relief. A shop that doesn't try to take advantage of you. I've sent every mum I know here since.",
+        "testimonialsTopReviewSectionInitials": "SB",
+        "testimonialsTopReviewSectionName": "Sarah B.",
+        "testimonialsTopReviewSectionMeta": "Mum of 2 · Belmont",
+        "testimonialsHeaderReviewCardItems": [
+          {
+            "tag": "Honest Advice",
+            "text": "Came in with a nail in the tyre expecting to be told I needed a new one. They repaired it for $35 and sent me on my way. Didn't try to upsell me anything. That's earned my loyalty.",
+            "initials": "KM",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "Karen M.",
+            "meta": "Mum · Victoria Park"
+          },
+          {
+            "tag": "Mum · Victoria Park",
+            "text": "Got our Carnival checked before the family trip to Margaret River. They found one tyre with a slow leak I hadn't noticed. Fixed before we hit the highway. Cannot thank them enough.",
+            "initials": "TR",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "Tim R.",
+            "meta": "Dad of 3 · Kewdale"
+          },
+          {
+            "tag": "No Pressure",
+            "text": "Told me my tyres were fine and I had at least another year on them. Sent me home without charging me anything. I'll be back when they actually do need replacing nowhere else.",
+            "initials": "AL",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "Amy L.",
+            "meta": "Mum · Carlisle"
+          },
+          {
+            "tag": "SUV Family",
+            "text": "Had new tyres on my Fortuner and an alignment done. Explained why the alignment mattered for a loaded SUV. Took their time to get it right. Brilliant service.",
+            "initials": "JP",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "James P.",
+            "meta": "Dad · Welshpool"
+          },
+          {
+            "tag": "Upfront Pricing",
+            "text": "Quoted me $380 for four tyres. Paid $380. That never happens anywhere else. No disposal fee added, no balancing charge on top. Exactly what they said. Refreshing.",
+            "initials": "MC",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "Michelle C.",
+            "meta": "Mum of 4 · Belmont"
+          },
+          {
+            "tag": "Repeat Family",
+            "text": "Three kids, three cars, all come here. Always honest, always the price quoted, always done properly. The only tyre shop I trust with my family's cars.",
+            "initials": "RW",
+            "gradient": "linear-gradient(135deg,#2B6CB0,#1A3C5E)",
+            "name": "Rachel W.",
+            "meta": "Family · Kewdale"
+          }
+        ],
+        "testimonialsBottomReviewSectionLbl": "300+ Perth families have found the tyre shop they can actually trust.",
+        "testimonialsBottomReviewSectionSub": "You deserve the same peace of mind.",
+        "testimonialsBottomReviewSectionSubBtn": "Book Free Safety Check"
+      }
+    },
+    {
+      "slug": "tradiee",
+      "name": "Commercial Tyres",
+      "description": "LT-spec and C-rated commercial tyres for work vehicles. Fast turnaround, correct load rating guaranteed.",
+      "heroData": {
+        "sectionColor": "#E8820A",
+        "heroSliderImages": [
+          "/commercial_tyres_icons/hero_images/hero1.webp",
+          "/commercial_tyres_icons/hero_images/hero2.webp",
+          "/commercial_tyres_icons/hero_images/hero3.webp",
+          "/commercial_tyres_icons/hero_images/hero4.webp",
+          "/commercial_tyres_icons/hero_images/hero5.webp",
+          "/commercial_tyres_icons/hero_images/hero6.webp"
+        ],
+        "backgroundColor": "#B8620A",
+        "heroTopBarTxt": "Fast turnaround.No.BS.",
+        "heroTopBarBtn": "Get Back On The Road",
+        "heroEyebrow": "Tyrepower WA’s Dealer of the Year 2025",
+        "heroheader": {
+          "highlight": "We'll Sort It.",
+          "main": "Your Van's Off The Road."
+        },
+        "heroPhara": "Every hour the ute's in a tyre shop is an hour you're not billing. We stock the commercial and work tyres you need, we know load ratings, and we get you back on the road fast. That's it.",
+        "heroMainBtn": "Book Fast Turnaround",
+        "heroProof": [
+          "4.7 / 5 300+ Google Reviews \"In and out in 45 mins. Van was back on the job by lunch.\"",
+          "Fleet accounts available \"HiLux · Ranger · Transit · Sprinter · Hiace\""
+        ],
+        "heroStatusBar": [
+          {
+            "number": "90",
+            "unit": "MIN",
+            "lable": "Average turnaround time (Subject to availability)"
+          },
+          {
+            "number": "C",
+            "unit": "-RATED",
+            "lable": "Commercial tyres in stock"
+          },
+          {
+            "number": "FLEET",
+            "unit": " ACCOUNT",
+            "lable": "Monthly invoicing available"
+          },
+          {
+            "number": "25",
+            "unit": " + YRS",
+            "lable": "Kewdale & Perth tradies"
+          }
+        ]
+      },
+      "googleReviewData": {
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#e8820a1a",
+        "proofLable": "Trusted by Perth tradies, fleet operators and small business owners fast, reliable, no excuses",
+        "proofData": [
+          {
+            "icon": "/commercial_tyres_icons/clock.png",
+            "number": "90",
+            "unit": "MIN",
+            "line1": "Average turnaround (Subject to availability)",
+            "line2": ""
+          },
+          {
+            "icon": "/commercial_tyres_icons/stock.png",
+            "number": "C",
+            "unit": "-RATED",
+            "line1": "Commercial tyres stocked",
+            "line2": ""
+          },
+          {
+            "icon": "/commercial_tyres_icons/account.png",
+            "number": "FLEET",
+            "unit": "ACC",
+            "line1": "Monthly invoicing",
+            "line2": ""
+          },
+          {
+            "icon": "/commercial_tyres_icons/same-day.png",
+            "number": "SAME",
+            "unit": "-DAY",
+            "line1": "Most jobs available",
+            "line2": ""
+          }
+        ]
+      },
+      "proofData": {
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#e8820a1a",
+        "borderColor": "#E8820A33"
+      },
+      "problemData": {
+        "slug": "",
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#e8820a1a",
+        "borderColor": "#E8820A33",
+        "problemEyebrow": "The problem with most tyre shops",
+        "problemheader": {
+          "highlightColor": "#FFFFFF",
+          "main": "You're A Tradie.",
+          "highlight": "Downtime Is Money.",
+          "seccondaryText": " Most Tyre Shops Don't Get That."
+        },
+        "problemPhara": "You don't need a consultation. You don't need someone explaining what a tyre is. You need the right tyre, the right load rating, fitted correctly, and your vehicle back on the road as fast as possible.Most shops aren't built for that. They're built for Saturday morning drop offs with coffee machines and mood lighting. You need a shop that works like you do.",
+        "problemQuote": "\"Tried three places before finding Kewdale. First two didn't have the load rating I needed for the Hilux. Third one did but wanted me to leave it all day. Kewdale had it done in an hour. That's the difference.\"",
+        "problemCite": "Perth sparky, Google review",
+        "problemPainCard": [
+          {
+            "icon": "/commercial_tyres_icons/clock.png",
+            "title": "Half day wait times when you're already behind schedule",
+            "description": "\"Drop it off and we'll call you\" doesn't work when your van is your livelihood. You need a time and they need to stick to it."
+          },
+          {
+            "icon": "/commercial_tyres_icons/warning.png",
+            "title": "Fitted the wrong load rating and didn't tell you",
+            "description": "A passenger rated tyre on a loaded ute is a safety issue and may void your insurance. Plenty of shops don't know or don't check."
+          },
+          {
+            "icon": "/commercial_tyres_icons/return.png",
+            "title": "Your size isn't in stock come back Thursday",
+            "description": "LT spec tyres, commercial sizes, heavy duty rims most shops don't carry them. You end up waiting days or accepting something wrong."
+          },
+          {
+            "icon": "/commercial_tyres_icons/no-acount.png",
+            "title": "No fleet account chasing receipts every time",
+            "description": "Multiple vehicles, multiple drivers, multiple invoices. Without a proper fleet account you're drowning in admin every month."
+          },
+          {
+            "icon": "/commercial_tyres_icons/difference.png",
+            "title": "Being told the price at the counter is different to the quote",
+            "description": "You've got a job to get back to. Arguing about balancing fees and disposal charges you didn't know about isn't how you want to spend your morning."
+          }
+        ],
+        "problemBridgeTxt": "Here's a shop that runs like you do",
+        "problemBridgeTxtStrongColor": "",
+        "problemBridgeTxtStrong": "Right stock. Fast turnaround. Straight price. Done."
+      },
+      "amplifyData": {
+        "slugName": "",
+        "sectionColor": "#E8820A",
+        "borderColor": "#E8820A33",
+        "backgroundColor": "#e8820a1a",
+        "amplifyEyebrow": "What downtime actually costs",
+        "amplifyheader": {
+          "highlight": "Is A Job You're Not Getting Paid For.",
+          "main": "Every Hour Your Vehicle's Off The Road"
+        },
+        "amplifyPhara": "Let's put a number on it. Because a slow tyre shop isn't just inconvenient it's a direct hit to your income.",
+        "amplifyCal": "false",
+        "amplifyItems": [
+          {
+            "tag": "Downtime",
+            "number": "$150+",
+            "title": "Billable per hour you can't work while the van's stuck",
+            "desc": "A half day shop visit costs you $600+ in lost billings before you've even paid for the tyres."
+          },
+          {
+            "tag": "Wrong Tyre",
+            "number": "Void",
+            "title": "Insurance cover when wrong load rating is fitted to a work vehicle",
+            "desc": "If an incident happens with the wrong rated tyre on a loaded ute, your insurer may refuse the claim. Most shops don't check."
+          },
+          {
+            "tag": "Wear",
+            "number": "2×",
+            "title": "Faster wear when the wrong compound is fitted to a work vehicle",
+            "desc": "A passenger tyre on a work ute wears far faster under load. You're replacing tyres twice as often and wondering why."
+          },
+          {
+            "tag": "Fleet Admin",
+            "number": "3HRS",
+            "title": "Monthly reconciling receipts across multiple vehicles without a fleet account",
+            "desc": "Three hours of admin time every month that disappears when you get a proper fleet account with consolidated invoicing."
+          },
+          {
+            "tag": "Jobs Missed",
+            "number": "1–2",
+            "title": "Jobs lost when you can't get the vehicle in same day",
+            "desc": "A flat tyre in the morning can wipe your whole day if the shop can't fit you in quickly. Some shops can. Most can't."
+          },
+          {
+            "tag": "Reputation",
+            "number": "$0",
+            "title": "What you charge clients while explaining you can't make it because of a tyre",
+            "desc": "Letting a client down because of an avoidable delay damages something you've spent years building."
+          }
+        ],
+        "amplifyKickerlbl": "The bottom line",
+        "amplifyKickerHeader": {
+          "highlightColor": "#E8820A",
+          "highlight": "Costs You More",
+          "main": "A Slow Tyre Shop",
+          "second": " Than The Tyres Ever Will."
+        },
+        "amplifyKickerPhara": "Get in, get sorted, get back on the road. That's the only service model that works for a tradie. That's what Kewdale Tyrepower delivers.",
+        "amplifyKickerBtn": "Book Fast Turnaround"
+      },
+      "solutionData": {
+        "sectionColor": "#E8820A",
+        "borderColor": "#B8620A",
+        "backgroundColor": "#e8820a1a",
+        "solutionEyebrow": "A tyre shop built around your work day",
+        "solutionHeader": {
+          "main": "Kewdale Tyrepower",
+          "highlight": "Fast.Right Load Rating.",
+          "second": "Back On The Job."
+        },
+        "solutionPhara1": "We stock the commercial and work tyres Perth tradies actually need C rated vans tyres, LT spec ute tyres, all terrain options for work vehicles that go both on road and off. We know load ratings. We know the difference between an SL and XL and an LT.",
+        "solutionPhara2": "When you call with your size and vehicle, we'll tell you straight away if we have it. If we do, we'll get you in that day. Most work vehicle fitments are done in under an hour. You wait, we work, you leave.",
+        "solutionPhara3": "Fleet accounts are available if you've got multiple vehicles. Single monthly invoice, online account access, priority booking for account holders. Less admin, more consistency.",
+        "solutionPromiseLbl": "The Tradie Standard",
+        "solutionPromiseDecs": "\"Right tyre. Right load rating. Done fast. Priced straight. No standing around waiting.\"",
+        "solutionPillarItems": [
+          {
+            "num": "01",
+            "title": "Commercial Stock On The Shelf Not On Order",
+            "desc": "LT spec, C rated, all terrain, and heavy duty commercial tyres in the sizes your ute and van actually run. We tell you if we have it before you drive over."
+          },
+          {
+            "num": "02",
+            "title": "Load Rating Done Right Every Time",
+            "desc": "We always confirm the correct load and speed index for your vehicle and how you're using it. No passenger tyres on loaded work vehicles. Ever."
+          },
+          {
+            "num": "03",
+            "title": "Fast Turnaround 90 Minutes, Most Jobs",
+            "desc": "Book in, drop the vehicle, we crack on. Most standard commercial fitments are done in 90 minutes. We don't keep you waiting.(Subject to availability)"
+          },
+          {
+            "num": "04",
+            "title": "Fleet Accounts One Invoice, No Admin",
+            "desc": "Multiple vehicles, multiple drivers, one monthly invoice. Priority booking, consolidated billing, and a point of contact who knows your fleet."
+          }
+        ],
+        "solutionRoadMapItems": [
+          {
+            "num": "01",
+            "title": "Call With Your Size",
+            "desc": "Tell us the tyre size and vehicle. We confirm stock and a time immediately.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 1"
+          },
+          {
+            "num": "02",
+            "title": "Bring It In",
+            "desc": "Drive in at your booked time. No waiting around when you arrive.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 2"
+          },
+          {
+            "num": "03",
+            "title": "We Fit & Balance",
+            "desc": "Correct load rating confirmed, fitted and balanced. Under an 90 Mins.(Subject to availability)",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 3"
+          },
+          {
+            "num": "04",
+            "title": "Back On The Job",
+            "desc": "Pay the quoted price and go. No surprises. Back billing by lunch.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 4"
+          }
+        ]
+      },
+      "servicesData": {
+        "sectionColor": "#E8820A",
+        "borderColor": "#E8820A33",
+        "backgroundColor": "#e8820a1a",
+        "serviceEyebrow": "What we do",
+        "serviceHeader": {
+          "main": "Work Vehicle Services.",
+          "highlight": "Done Fast."
+        },
+        "serviceTopBtn": "Book Now",
+        "proServiceCard": {
+          "icon": "",
+          "lbl": "Commercial Specialist",
+          "title": "Ute & Van Tyre Fitment",
+          "time": "90 minutes",
+          "description": "LT spec and C rated commercial tyres fitted correctly. Load rating confirmed before anything goes on the vehicle. Right tyre for a loaded work vehicle always.",
+          "includes": [
+            "Correct load rating confirmed",
+            "Fitment + balancing included",
+            "Valve stems + disposal included"
+          ],
+          "cta": "Book Now"
+        },
+        "serviceCardItem": [
+          {
+            "icon": "/commercial_tyres_icons/alignment.png",
+            "title": "Wheel Alignment",
+            "time": "45 minutes",
+            "description": "A loaded ute with bad alignment eats tyres. Computerised alignment on work vehicles especially important after off road use or hitting a pothole at speed.",
+            "includes": ["4 wheel computerised", "Before & after report"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/commercial_tyres_icons/tool.png",
+            "title": "Puncture Repair",
+            "time": "30 minutes",
+            "description": "Flat on the job? If it's repairable, we'll fix it properly and get you back on the road. No messing around, no upsell to a new tyre if a repair is the right answer.",
+            "includes": ["Full internal repair", "Rebalanced after repair"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/commercial_tyres_icons/rotate.png",
+            "title": "Tyre Rotation",
+            "time": "30-40 minutes",
+            "description": "Work tyres wear unevenly under load. Regular rotation extends life significantly less frequent replacement means less downtime and better cost per km.",
+            "includes": ["All positions rotated", "Pressure check included"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/commercial_tyres_icons/balance.png",
+            "title": "Wheel Balancing",
+            "time": "45 minutes",
+            "description": "Steering wheel vibration costs you in driver fatigue, component wear, and tyre life. A quick balance sorts it and extends the life of your commercial tyres.",
+            "includes": ["All 4 wheels"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/commercial_tyres_icons/checked.png",
+            "title": "Free Work Vehicle Check",
+            "time": "10 minutes",
+            "description": "Drive in anytime. We check tread depth, inflation, condition, and confirm your current load rating is correct for your vehicle. Free. No obligation. (Subject to availability)",
+            "includes": ["Load rating check included", "No obligation ever"],
+            "cta": "Book now"
+          }
+        ],
+        "bottomServiceItems": [
+          "SUVs & 4WDs",
+          "People Movers",
+          "Family Wagons & Hatchbacks",
+          "Pre road trip Safety Checks",
+          "Multiple Vehicles (Fleet Families)"
+        ]
+      },
+      "offerData": {
+        "sectionColor": "#E8820A",
+        "borderColor": "#E8820A33",
+        "backgroundColor": "#e8820a1a",
+        "offerEyebrow": "Choose what you need",
+        "offerHeader": {
+          "highlightColor": "#E8820A",
+          "highlight": "All Inclusive Pricing. No Crap.",
+          "mainSubOne": "Work Tyres.",
+          "mainSubTwo": ""
+        },
+        "offerPhara": "Fitment, balancing, valves, disposal in every price. No extras when you come to pay.",
+        "offerCartOneTitle": "Standard",
+        "offerCardOneDecs": "The affordable,dependable tyreoption to keep your Ute or SUV moving.",
+        "offerCardOnePrice": "165",
+        "offerCardOneSubPhara": "All major brands in stock",
+        "offerCardOneLbl": "What’s included",
+        "offerCardOneInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing & tyre rotation",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "Correct load rating confirmed",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardOneBtn": "Book Now",
+        "offerCardTwoBadge": "Most Popular Best All Round Value",
+        "offerCartTwoTitle": "Complete Road-Ready",
+        "offerCardTwoDecs": "Maximum value for heavy-duty setups. Full alignment plus a comprehensive vehicle check to spot issues before they happen.",
+        "offerCardTwoPrice": "779",
+        "offerCardTwoSubPhara": "Tyre + alignment + full check",
+        "offerCardTwoLbl": "Everything in Value, plus",
+        "offerCardTwoInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing",
+          "Full tyre rotation",
+          "Computerised wheel alignment",
+          "Before & after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "Correct load rating confirmed",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardTwoIncludedBonus": [
+          "Bonus: Priority booking for next visit",
+          "Bonus: At 5,000 km: One-time free tyre checkup. Every 10,000 km (up to 50,000 km): Rotation, balancing, alignment + 10% off the total bill."
+        ],
+        "offerCardTwoIncludeOthers": [
+    
+        ],
+        "offerCardTwoBtn": "Book Now",
+        "offerCartThreeTitle": "Value",
+        "offerCardThreeDecs": "Corrects tracking, protects steering components, and ensures your new tyres last the distance.",
+        "offerCardThreePrice": "284",
+        "offerCardThreeSubPhara": "Tyre + alignment",
+        "offerCardThreeLbl": "Everything in Standard, plus",
+        "offerCardThreeInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing & tyre rotation",
+          "Computerised wheel alignment",
+          "Before & after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "Correct load rating confirmed",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardThreeBtn": "Book Now",
+        "offerCartFourTitle": "Extreme",
+        "offerCardFourDecs": "Built for the weekend adventurer. Premium off-road tread paired with a precision alignment to handle rugged terrain and highway driving alike.",
+        "offerCardFourPrice": "494",
+        "offerCardFourSubPhara": "Tyre + alignment",
+        "offerCardFourLbl": "Everything in Standard, plus",
+        "offerCardFourInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing & tyre rotation",
+          "Computerised wheel alignment",
+          "Before & after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "Correct load rating confirmed",
+          "70000km + durability"
+        ],
+        "offerCardFourBtn": "Book Now",
+        "offerValueEyeBrow": "What you’re actually getting",
+        "offerValueHeader": "The Total Complete Road-Ready Package Everything Stacked Up",
+        "offerValueItems": [
+          {
+            "name": "Total Complete Road-Ready tyre supply & fitment",
+            "price": "$660",
+            "bonus": false
+          },
+          {
+            "name": "Wheel balancing & rotation",
+            "price": "$140",
+            "bonus": false
+          },
+          {
+            "name": "Computerised wheel alignment",
+            "price": "$109",
+            "bonus": false
+          },
+          {
+            "name": "Tyre Disposal",
+            "price": "$20",
+            "bonus": true
+          }
+        ],
+        "offerSaveLbl": "You save up to",
+        "offerSavePrice": "150",
+        "offerSaveSubLbl": "Worth of services included in your per tyre price",
+        "offerSaveBtn": "Book This Package",
+        "offerTotalLbl": "Your Total Complete Road-Ready Package price",
+        "offerTotalOldPrice": "From $929",
+        "offerTotalPrice": "779",
+        "offerShowCardFour": true
+      },
+      "guaranteeData": {
+        "sectionColor": "#E8820A",
+        "borderColor": "#E8820A33",
+        "backgroundColor": "#e8820a1a",
+        "guranteeEyebrow": "No excuses",
+        "guranteeheader": {
+          "highlightColor": "#E8820A",
+          "highlight": "Right Tyre.",
+          "mainSubOne": "We Fit The",
+          "mainSubTwo": "At The Quoted Price.Done Fast."
+        },
+        "guranteePhara": "Simple. We confirm the correct load rating before we touch the vehicle, quote you a price that includes everything, and have it done in under an hour for most work vehicle fitments. If something's not right with our work, we fix it no arguments.",
+        "guranteeSealIcon": "",
+        "guranteeSealTitle": "Done,Right",
+        "guranteeSealSubTitle": "GUARANTEED",
+        "guranteeSealCaption": "Right load rating. Right price. Done fast. Every time or we fix it.",
+        "guranteePoint": [
+          {
+            "icon": "/commercial_tyres_icons/stock.png",
+            "title": "Correct Load Rating Every Time",
+            "description": "We confirm the right load and speed index for your vehicle and how you're using it before a single tyre comes off the shelf. No wrong rated tyres. Ever."
+          },
+          {
+            "icon": "/commercial_tyres_icons/extra.png",
+            "title": "All Inclusive Price No Extras At Pickup",
+            "description": "What we quote includes everything. Nothing appears at the counter that wasn't discussed upfront. The price you agreed is the price you pay."
+          },
+          {
+            "icon": "/commercial_tyres_icons/clock.png",
+            "title": "Time Guarantee We Tell You When, We Stick To It",
+            "description": "When you book, we tell you how long it'll take. Most commercial fitments are under an hour. We don't keep you waiting you've got a job to get back to."
+          }
+        ],
+        "guranteeSigQuote": "\"Tradies have been bringing their vehicles here for many years because we get it done and we get it right.\""
+      },
+      "hvcoData": {
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#B8620A",
+        "iconBackColor": "#E8820A",
+        "hvcoEyebrow": "Free Download For Work Vehicles",
+        "hvcoheader": {
+          "highlightColor": "#E8820A",
+          "highlight": " Right Tyres?",
+          "mainSubOne": "Is Your Work Vehicle Running The",
+          "mainSubTwo": ""
+        },
+        "hvcoPhara": "Most tradies don't know their tyre load rating or whether it's right for how they're using the vehicle. Grab our free guide.\"Work Vehicle Tyre Guide Right Load Rating, Right Tyre, Less Downtime.\"",
+        "hvcoItems": [
+          "Load rating decoded SL vs XL vs C vs LT explained in plain English",
+          "Right tyre per vehicle type HiLux, Ranger, Transit, Sprinter, Hiace recommendations",
+          "All terrain vs highway which compound for your use case",
+          "Fleet maintenance schedule rotation intervals, pressure checks, when to replace",
+          "Insurance implications what wrong load ratings mean for work vehicle cover"
+        ],
+        "hvcoFormLbl": "Send me the work vehicle guide",
+        "hvcoFormInput": [
+          {
+            "name": "name",
+            "placeholder": "First name"
+          },
+          {
+            "name": "vehicles",
+            "placeholder": "Your vehicles (e.g. Hilux, Transit, Sprinter)"
+          },
+          {
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ],
+        "hvcoFormBtn": "Download Free Guide Instant",
+        "hvcoFormBottomLbl": "No spam. We're a tyre shop, not a mailing list.",
+        "hvcoGuideCoverLbl": "Free Tradie Guide",
+        "hvcoGuidHeadLine": {
+          "highlight": " Tyre Guide",
+          "main": "Work Vehicle",
+          "second": ""
+        },
+        "hvcoGuideCoverSub": "Right load rating, right tyre, less downtime the no BS guide for tradies and fleet operators",
+        "hvcoCoverBy": "KEWDALE TYREPOWER",
+        "hvcoCoverPages": "18 pages · Free instant download",
+        "hvcoGuideValuesitems": [
+          {
+            "lable": "Load rating guide",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Per vehicle tyre recommendations",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Fleet maintenance schedule",
+            "price": "$15",
+            "isFree": false
+          },
+          {
+            "lable": "Your cost",
+            "price": "FREE",
+            "isFree": true
+          }
+        ]
+      },
+      "faqData": {
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#e8820a1a",
+        "iconBackColor": "#e8820a12",
+        "boarderColor": "#E8820A33",
+        "faqEyebrow": "Straight answers",
+        "faqheader": {
+          "highlightColor": "#E8820A",
+          "highlight": "Fluff.",
+          "mainSubOne": "No",
+          "mainSubTwo": "Just Facts."
+        },
+        "faqPhara": "The questions tradies ask us most answered straight, no padding.",
+        "faqContactLbl": "Need a quick answer?",
+        "faqContactTitle": "Just call us",
+        "faqContactSub": "Tell us your vehicle and size. We'll tell you if we have it and how fast we can get you sorted.",
+        "faqContactSubBtn": "Book Fast Turnaround",
+        "faqCatTopicOne": "Turnaround & Stock",
+        "faqCatTopicTwo": "Load Ratings & Technical",
+        "faqCatTopicThree": "Fleet & Pricing",
+        "faqQAItem1": [
+          {
+            "quection": "How fast can you get my vehicle sorted?",
+            "answer": "Most standard commercial fitments 90 minutes. Call ahead with your vehicle and tyre size. We'll confirm we have stock and get you a time. Arrive at your booked time, we get straight on it. No waiting around when you arrive.(Subject to availability)"
+          },
+          {
+            "quection": "Do you stock LT tyres and C rated commercial van tyres?",
+            "answer": "Yes. We stock LT spec ute tyres and C rated commercial van tyres in the common sizes. Call with your vehicle make and tyre size and we'll tell you immediately what we have. If we don't have your exact size in stock, we'll tell you that too we don't waste your time."
+          },
+          {
+            "quection": "Can you fit me in same day?",
+            "answer": "Usually yes call before 10am and we'll generally get you in that day. Fleet account holders get priority booking. If we can't fit you in same day, we'll give you the earliest available slot and be straight with you about timing."
+          }
+        ],
+        "faqQAItem2": [
+          {
+            "quection": "How do I know if I have the right load rating on my ute or van?",
+            "answer": "Check the tyre placard on your door jamb it'll show the OEM spec. If you're regularly carrying a full load, towing, or going off road on a work ute, you need LT spec tyres. Drive in and we'll check what's on the vehicle and confirm whether it's right for how you're using it. Free, no charge."
+          },
+          {
+            "quection": "My van has passenger tyres on it is that a problem?",
+            "answer": "Yes if your van regularly carries a load, it needs C rated commercial tyres. Passenger tyres on a loaded work van wear faster, run hotter, and can fail under load. It can also be an insurance issue in the event of an incident. If you're unsure what's on your van, drive in and we'll check."
+          },
+          {
+            "quection": "What's the difference between all terrain and highway tyres for my ute?",
+            "answer": "Highway tyres are quieter and wear better for mostly on road use. All terrain tyres handle gravel, dirt, and off road conditions better but wear faster on bitumen. If you're regularly going to site on dirt roads, AT is worth it. If you're mostly on road, a good highway commercial tyre is better value. We'll help you decide based on your actual use."
+          }
+        ],
+        "faqQAItem3": [
+          {
+            "quection": "How does a fleet account work?",
+            "answer": "Easy. Call us, tell us your vehicles. We set up a fleet account your drivers can come in and get serviced without paying on the spot, and you get a single monthly invoice with all jobs itemised. Fleet account holders also get priority booking, which means less waiting and less downtime. From 2 vehicles upward."
+          },
+          {
+            "quection": "Does the price include fitment, balancing and disposal?",
+            "answer": "Yes always. Every quote includes the tyre, fitment, wheel balancing, valve stem, and old tyre disposal. What we say is what you pay. No disposal fee appears when you come to pay. No balancing charge that wasn't mentioned. Full stop."
+          }
+        ]
+      },
+      "urgencyData": {
+        "sectionColor": "#B8620A",
+        "backgroundColor": "#B8620A",
+        "iconBackColor": "rgba(232,130,10,.1)",
+        "urgencyEyebrow": "Same day spots available limited",
+        "urgencyheader": "Every Hour Counts.",
+        "urgencySecHeader": "Don't lose a day's billing to a slow tyre shop.",
+        "urgencyPhara": "Same day slots go fast. Call now, get a time, get sorted. Most work vehicle fitments are done under an hour. You'll be back on the tools before lunch.",
+        "urgencySubPhara": [
+          "90 min turnaround on most commercial fitments (Subject to availability)",
+          "Fleet account holders get priority booking less downtime guaranteed",
+          "Running on worn tyres? Every km is risk get it sorted today"
+        ],
+        "urgencySlotBoxLbl": "Same day slots left today",
+        "urgencySlotBoxCount": "4",
+        "urgencySlotBoxUnit": "slots remaining",
+        "urgencySlotBoxSub": "Call now to lock in your time.",
+        "urgencySlotBoxPrimaryBtn": "Book Fast Turnaround",
+        "urgencySlotBoxSecBtn": "Call (08) 9359 1444",
+        "urgencyStrip": [
+          {
+            "icon": "",
+            "stripDescription": "90 min turnaround (Subject to availability)"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Correct load rating confirmed"
+          },
+          {
+            "icon": "",
+            "stripDescription": "All inclusive price no surprises"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Fleet accounts available"
+          }
+        ]
+      },
+      "bookingData": {
+        "sectionColor": "#E8820A",
+        "backgroundColor": "#0d1b2a",
+        "accentColor": "#c9a84c",
+        "bookingEyebrow": "Book Online",
+        "bookingHeader": "Book Your Van In",
+        "bookingPhara": "Tell us when you can spare the truck. We'll confirm your slot within the hour and get you back on the road fast.",
+        "bookingTrustPoints": [
+          "No deposit required to book",
+          "90 minute average turnaround (Subject to availability)",
+          "Upfront price no surprises",
+          "Early drop-off available"
+        ],
+        "bookingServiceTypes": [
+          "Tyre Replacement",
+          "Wheel Alignment",
+          "Tyre Rotation",
+          "Safety Check",
+          "Flat Tyre Repair",
+          "Wheel Balancing",
+          "Other"
+        ],
+        "bookingBtn": "Confirm My Booking",
+        "bookingSuccessTitle": "Booking Received!",
+        "bookingSuccessPhara": "We'll confirm your appointment shortly. Check your email for details.",
+        "bookingErrorPhara": "Something went wrong. Please try again or call us on (08) 9359 1444."
+      },
+      "closeData": {
+        "sectionColor": "#e8820a",
+        "backgroundColor": "#e8820a1a",
+        "iconBackColor": "rgba(232,130,10,.1)",
+        "boarderColor": "#E8820A33",
+        "sectionThirteenEyebrow": "Your move",
+        "sectionThirteenHeading": {
+          "main": "Tradies Who Can't Afford Downtime Choose Kewdale.",
+          "highlight": "Now You Know Why."
+        },
+        "sectionThirteenPhara": "Right tyre, right load rating, done fast, straight price. Call us with your size and we'll get you sorted today.",
+        "sectionThirteenPrimaryBtn": "Call (08) 9359 1444 Same Day",
+        "sectionThirteenSecBtn": "Fleet account",
+        "sectionThirteenCloseTrust": [
+          {
+            "icon": "",
+            "description": "90 min turnaround (Subject to availability)"
+          },
+          {
+            "icon": "",
+            "description": "Correct load rating guaranteed"
+          },
+          {
+            "icon": "",
+            "description": "All inclusive pricing"
+          },
+          {
+            "icon": "",
+            "description": "Fleet accounts available"
+          },
+          {
+            "icon": "",
+            "description": "4.7 stars · 300+ reviews"
+          }
+        ],
+        "sectionThirteenCloseInfo": [
+          {
+            "id": 1,
+            "infoTitle": "Kewdale Central Perth",
+            "infoDescription": "Easy access from Belmont, Welshpool, Carlisle, and across the metro. Ample parking for utes and vans."
+          },
+          {
+            "id": 2,
+            "infoTitle": "Trading Hours",
+            "infoDescription": "Mon – Fri: 8:00 AM – 5:00 PM,Saturday: 8:00 AM – 12:00 PM,Sunday: Closed,Early morning slots for tradies who start early."
+          },
+          {
+            "id": 3,
+            "infoTitle": "Call Us Direct",
+            "infoDescription": "Phone: (08) 9359 1444,Email: kewdale@tyrepower.com.au,Tell us your vehicle and size. We'll sort it."
+          }
+        ],
+        "sectionThirteenCloseFooter": [
+          {
+            "label": "Privacy Policy",
+            "target": "privacy-policy"
+          },
+          {
+            "label": "Terms",
+            "target": "terms-of-service"
+          },
+          {
+            "label": "Commercial Tyres",
+            "target": "service"
+          },
+          {
+            "label": "Fleet Accounts",
+            "target": "fleet"
+          },
+          {
+            "label": "Google Reviews",
+            "target": "testimonials"
+          }
+        ]
+      },
+      "testimonialsData": {
+        "sectionColor": "#E8820A",
+        "borderColor": "#E8820A33",
+        "backgroundColor": "#e8820a1a",
+        "testimonialsEyeBrow": "Tradies who trust us",
+        "testimonialsHeader": {
+          "highlightColor": "#E8820A",
+          "highlight": "No BS",
+          "mainSubOne": "The Shop Where",
+          "mainSubTwo": " Is Just How We Work."
+        },
+        "testimonialsTopReviewSection": "Tried three places before finding Kewdale. First two didn't have the load rating I needed for the Hilux. Third one did but wanted me to leave it all day. Kewdale had it done in an hour. That's the difference.",
+        "testimonialsTopReviewSectionInitials": "MP",
+        "testimonialsTopReviewSectionName": "Mitch P.",
+        "testimonialsTopReviewSectionMeta": "Sparky · Kewdale",
+        "testimonialsHeaderReviewCardItems": [
+          {
+            "tag": "Fast Turnaround",
+            "text": "In and out in 45 mins. Van was back on the job by lunch. That never happens at other shops.",
+            "initials": "TD",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "Tom D.",
+            "meta": "Carpenter · Belmont"
+          },
+          {
+            "tag": "Load Rating",
+            "text": "Checked my van tyres and told me the previous shop had fitted passenger rated. Replaced with proper C rated. Explained why it mattered. Insurance would have been void.",
+            "initials": "SR",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "Steve R.",
+            "meta": "Plumber · Welshpool"
+          },
+          {
+            "tag": "Fleet Account",
+            "text": "Three vans, one monthly invoice. No chasing receipts, no admin headache. Priority booking means we're never waiting.",
+            "initials": "LW",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "Lisa W.",
+            "meta": "Fleet Owner · Carlisle"
+          },
+          {
+            "tag": "Stock Availability",
+            "text": "Called with a flat on the Ranger. Had my LT sizes in stock, got me in same day. Didn't try to sell me something else.",
+            "initials": "JC",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "James C.",
+            "meta": "Builder · Victoria Park"
+          },
+          {
+            "tag": "No Upsell",
+            "text": "Came in for a puncture repair. They fixed it in 25 mins for $35. Didn't try to sell me a new tyre. That's honesty.",
+            "initials": "AB",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "Alex B.",
+            "meta": "Tradie · Perth"
+          },
+          {
+            "tag": "25 Years",
+            "text": "Been coming here for 15 years. Same blokes, same straight talking, same fast service. Wouldn't go anywhere else.",
+            "initials": "RT",
+            "gradient": "linear-gradient(135deg,#E8820A,#B8620A)",
+            "name": "Rob T.",
+            "meta": "Fleet Operator · Kewdale"
+          }
+        ],
+        "testimonialsBottomReviewSectionLbl": "300+ Perth tradies have found their tyre shop.",
+        "testimonialsBottomReviewSectionSub": "Stop wasting time at shops that don't get it.",
+        "testimonialsBottomReviewSectionSubBtn": "Book Fast Turnaround"
+      }
+    },
+    {
+      "slug": "tradie-landing",
+      "name": "Commercial Tyres",
+      "description": "LT spec and C rated commercial tyres for work vehicles. Fast turnaround, correct load rating guaranteed.",
+      "heroData": {
+        "sectionColor": "#1A7F4B",
+        "heroSliderImages": [
+          "/budget_tyres_icons/hero_images/hero1.webp",
+          "/budget_tyres_icons/hero_images/hero2.webp",
+          "/budget_tyres_icons/hero_images/hero3.webp",
+          "/budget_tyres_icons/hero_images/hero4.webp",
+          "/budget_tyres_icons/hero_images/hero5.webp",
+          "/budget_tyres_icons/hero_images/hero6.webp"
+        ],
+        "backgroundColor": "#1a7f4b1a",
+        "heroTopBarTxt": "Fast turnaround.No.BS.",
+        "heroTopBarBtn": "Get Back On The Road",
+        "heroEyebrow": "Tyrepower WA’s Dealer of the Year 2025",
+        "heroheader": {
+          "highlight": "We'll Sort It.",
+          "main": "Your Van's Off The Road."
+        },
+        "heroPhara": "Every hour the ute's in a tyre shop is an hour you're not billing. We stock the commercial and work tyres you need, we know load ratings, and we get you back on the road fast. That's it.",
+        "heroMainBtn": "Book Fast Turnaround",
+        "heroProof": [
+          "4.7 / 5 300+ Google Reviews \"In and out in 45 mins. Van was back on the job by lunch.\"",
+          "Fleet accounts available \"HiLux · Ranger · Transit · Sprinter · Hiace\""
+        ],
+        "heroStatusBar": [
+          {
+            "number": "90",
+            "unit": "MIN",
+            "lable": "Average turnaround time"
+          },
+          {
+            "number": "C",
+            "unit": "-RATED",
+            "lable": "Commercial tyres in stock"
+          },
+          {
+            "number": "FLEET",
+            "unit": " ACCOUNT",
+            "lable": "Monthly invoicing available"
+          },
+          {
+            "number": "25",
+            "unit": " + YRS",
+            "lable": "Kewdale & Perth tradies"
+          }
+        ]
+      },
+      "googleReviewData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1A7F4B",
+        "proofLable": "Trusted by Perth tradies, fleet operators and small business owners fast, reliable, no excuses",
+        "proofData": [
+          {
+            "icon": "",
+            "number": "45",
+            "unit": "MIN",
+            "line1": "Average turnaround",
+            "line2": ""
+          },
+          {
+            "icon": "",
+            "number": "C",
+            "unit": "-RATED",
+            "line1": "Commercial tyres",
+            "line2": "stocked"
+          },
+          {
+            "icon": "",
+            "number": "FLEET",
+            "unit": "ACC",
+            "line1": "Monthly invoicing",
+            "line2": ""
+          },
+          {
+            "icon": "",
+            "number": "SAME",
+            "unit": "-DAY",
+            "line1": "Most jobs available",
+            "line2": ""
+          }
+        ]
+      },
+      "proofData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "proofData": [
+          {
+            "icon": "",
+            "number": "45",
+            "unit": "MIN",
+            "line1": "Average turnaround",
+            "line2": ""
+          },
+          {
+            "icon": "",
+            "number": "C",
+            "unit": "-RATED",
+            "line1": "Commercial tyres",
+            "line2": "stocked"
+          },
+          {
+            "icon": "",
+            "number": "FLEET",
+            "unit": "ACC",
+            "line1": "Monthly invoicing",
+            "line2": ""
+          },
+          {
+            "icon": "",
+            "number": "SAME",
+            "unit": "-DAY",
+            "line1": "Most jobs available",
+            "line2": ""
+          }
+        ]
+      },
+      "problemData": {
+        "slug": "",
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1a7f4b1a",
+        "borderColor": "#1A7F4B33",
+        "problemEyebrow": "The problem with most tyre shops",
+        "problemheader": {
+          "highlightColor": "#FFFFFF",
+          "main": "You're A Tradie. Downtime Is Money. Most Tyre Shops Don't Get That.",
+          "highlight": "",
+          "seccondaryText": ""
+        },
+        "problemPhara": "You don't need a consultation. You don't need someone explaining what a tyre is. You need the right tyre, the right load rating, fitted correctly, and your vehicle back on the road as fast as possible.Most shops aren't built for that. They're built for Saturday morning drop offs with coffee machines and mood lighting. You need a shop that works like you do.",
+        "problemQuote": "\"Tried three places before finding Kewdale. First two didn't have the load rating I needed for the Hilux. Third one did but wanted me to leave it all day. Kewdale had it done in an hour. That's the difference.\"",
+        "problemCite": "Perth sparky, Google review",
+        "problemPainCard": [
+          {
+            "icon": "",
+            "title": "Half day wait times when you're already behind schedule",
+            "description": "\"Drop it off and we'll call you\" doesn't work when your van is your livelihood. You need a time and they need to stick to it."
+          },
+          {
+            "icon": "",
+            "title": "Fitted the wrong load rating and didn't tell you",
+            "description": "A passenger rated tyre on a loaded ute is a safety issue and may void your insurance. Plenty of shops don't know or don't check."
+          },
+          {
+            "icon": "",
+            "title": "Your size isn't in stock come back Thursday",
+            "description": "LT spec tyres, commercial sizes, heavy duty rims most shops don't carry them. You end up waiting days or accepting something wrong."
+          },
+          {
+            "icon": "",
+            "title": "No fleet account chasing receipts every time",
+            "description": "Multiple vehicles, multiple drivers, multiple invoices. Without a proper fleet account you're drowning in admin every month."
+          },
+          {
+            "icon": "",
+            "title": "Being told the price at the counter is different to the quote",
+            "description": "You've got a job to get back to. Arguing about balancing fees and disposal charges you didn't know about isn't how you want to spend your morning."
+          }
+        ],
+        "problemBridgeTxt": "Here's a shop that runs like you do",
+        "problemBridgeTxtStrongColor": "",
+        "problemBridgeTxtStrong": "Right stock. Fast turnaround. Straight price. Done."
+      },
+      "amplifyData": {
+        "slugName": "",
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1a7f4b1a",
+        "amplifyEyebrow": "What downtime actually costs",
+        "amplifyheader": {
+          "highlight": "Is A Job You're Not Getting Paid For.",
+          "main": "Every Hour Your Vehicle's Off The Road"
+        },
+        "amplifyPhara": "Let's put a number on it. Because a slow tyre shop isn't just inconvenient it's a direct hit to your income.",
+        "amplifyCal": "false",
+        "amplifyItems": [
+          {
+            "tag": "DOWNTIME",
+            "number": "$150+",
+            "title": "Billable per hour you can't work while the van's stuck",
+            "desc": "A half day shop visit costs you $600+ in lost billings before you've even paid for the tyres."
+          },
+          {
+            "tag": "Wrong Tyre",
+            "number": "Void",
+            "title": "Insurance cover when wrong load rating is fitted to a work vehicle",
+            "desc": "If an incident happens with the wrong rated tyre on a loaded ute, your insurer may refuse the claim. Most shops don't check."
+          },
+          {
+            "tag": "Wear",
+            "number": "2×",
+            "title": "Faster wear when the wrong compound is fitted to a work vehicle",
+            "desc": "A passenger tyre on a work ute wears far faster under load. You're replacing tyres twice as often and wondering why."
+          },
+          {
+            "tag": "Fleet Admin",
+            "number": "3HRS",
+            "title": "Monthly reconciling receipts across multiple vehicles without a fleet account",
+            "desc": "Three hours of admin time every month that disappears when you get a proper fleet account with consolidated invoicing."
+          },
+          {
+            "tag": "Jobs Missed",
+            "number": "1–2",
+            "title": "Jobs lost when you can't get the vehicle in same day",
+            "desc": "A flat tyre in the morning can wipe your whole day if the shop can't fit you in quickly. Some shops can. Most can't."
+          },
+          {
+            "tag": "Reputation",
+            "number": "$0",
+            "title": "What you charge clients while explaining you can't make it because of a tyre",
+            "desc": "Letting a client down because of an avoidable delay damages something you've spent years building."
+          }
+        ],
+        "amplifyKickerlbl": "The bottom line",
+        "amplifyKickerHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "A Slow Tyre Shop Costs You More Than The Tyres Ever Will.",
+          "main": ""
+        },
+        "amplifyKickerPhara": "Get in, get sorted, get back on the road. That's the only service model that works for a tradie. That's what Kewdale Tyrepower delivers.",
+        "amplifyKickerBtn": "Book Fast Turnaround"
+      },
+      "solutionData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B",
+        "backgroundColor": "#1a7f4b1a",
+        "solutionEyebrow": "A tyre shop built around your work day",
+        "solutionHeader": {
+          "main": "Kewdale Tyrepower Fast.",
+          "highlight": "Right Load Rating.",
+          "second": "Back On The Job."
+        },
+        "solutionPhara1": "We stock the commercial and work tyres Perth tradies actually need C rated vans tyres, LT spec ute tyres, all terrain options for work vehicles that go both on road and off. We know load ratings. We know the difference between an SL and XL and an LT.",
+        "solutionPhara2": "When you call with your size and vehicle, we'll tell you straight away if we have it. If we do, we'll get you in that day. Most work vehicle fitments are done in under an hour. You wait, we work, you leave.",
+        "solutionPhara3": "Fleet accounts are available if you've got multiple vehicles. Single monthly invoice, online account access, priority booking for account holders. Less admin, more consistency.",
+        "solutionPromiseLbl": "The Tradie Standard",
+        "solutionPromiseDecs": "\"Right tyre. Right load rating. Done fast. Priced straight. No standing around waiting.\"",
+        "solutionPillarItems": [
+          {
+            "num": "01",
+            "title": "Commercial Stock On The Shelf Not On Order",
+            "desc": "LT spec, C rated, all terrain, and heavy duty commercial tyres in the sizes your ute and van actually run. We tell you if we have it before you drive over."
+          },
+          {
+            "num": "02",
+            "title": "Load Rating Done Right Every Time",
+            "desc": "We always confirm the correct load and speed index for your vehicle and how you're using it. No passenger tyres on loaded work vehicles. Ever."
+          },
+          {
+            "num": "03",
+            "title": "Fast Turnaround 45 Minutes, Most Jobs",
+            "desc": "Book in, drop the vehicle, we crack on. Most standard commercial fitments are done in 45–60 minutes. We don't keep you waiting."
+          },
+          {
+            "num": "04",
+            "title": "Fleet Accounts One Invoice, No Admin",
+            "desc": "Multiple vehicles, multiple drivers, one monthly invoice. Priority booking, consolidated billing, and a point of contact who knows your fleet."
+          }
+        ],
+        "solutionRoadMapItems": [
+          {
+            "num": "01",
+            "title": "Call With Your Size",
+            "desc": "Tell us the tyre size and vehicle. We confirm stock and a time immediately.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 1"
+          },
+          {
+            "num": "02",
+            "title": "Bring It In",
+            "desc": "Drive in at your booked time. No waiting around when you arrive.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 2"
+          },
+          {
+            "num": "03",
+            "title": "We Fit & Balance",
+            "desc": "Correct load rating confirmed, fitted and balanced. Under an hour.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 3"
+          },
+          {
+            "num": "04",
+            "title": "Back On The Job",
+            "desc": "Pay the quoted price and go. No surprises. Back billing by lunch.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 4"
+          }
+        ]
+      },
+      "servicesData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1a7f4b1a",
+        "serviceEyebrow": "What we do",
+        "serviceHeader": {
+          "main": "Work Vehicle Services.",
+          "highlight": "Done Fast."
+        },
+        "serviceTopBtn": "Book Now",
+        "proServiceCard": {
+          "icon": "",
+          "lbl": "Commercial Specialist",
+          "title": "Ute & Van Tyre Fitment",
+          "time": "45–60 minutes",
+          "description": "LT spec and C rated commercial tyres fitted correctly. Load rating confirmed before anything goes on the vehicle. Right tyre for a loaded work vehicle always.",
+          "includes": [
+            "Correct load rating confirmed",
+            "Fitment + balancing included",
+            "Valve stems + disposal included"
+          ],
+          "cta": "Book Now"
+        },
+        "serviceCardItem": [
+          {
+            "icon": "",
+            "title": "Wheel Alignment",
+            "time": "45 minutes",
+            "description": "A loaded ute with bad alignment eats tyres. Computerised alignment on work vehicles especially important after off road use or hitting a pothole at speed.",
+            "includes": ["4 wheel computerised", "Before & after report"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "",
+            "title": "Puncture Repair",
+            "time": "30 minutes",
+            "description": "Flat on the job? If it's repairable, we'll fix it properly and get you back on the road. No messing around, no upsell to a new tyre if a repair is the right answer.",
+            "includes": ["Full internal repair", "Rebalanced after repair"],
+            "cta": "Drive in"
+          },
+          {
+            "icon": "",
+            "title": "Tyre Rotation",
+            "time": "25 minutes",
+            "description": "Work tyres wear unevenly under load. Regular rotation extends life significantly less frequent replacement means less downtime and better cost per km.",
+            "includes": ["All positions rotated", "Pressure check included"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "",
+            "title": "Wheel Balancing",
+            "time": "30 minutes",
+            "description": "Steering wheel vibration costs you in driver fatigue, component wear, and tyre life. A quick balance sorts it and extends the life of your commercial tyres.",
+            "includes": ["All 4 wheels"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "",
+            "title": "Free Work Vehicle Check",
+            "time": "15 minutes",
+            "description": "Drive in anytime. We check tread depth, inflation, condition, and confirm your current load rating is correct for your vehicle. Free. No obligation.",
+            "includes": ["Load rating check included", "No obligation ever"],
+            "cta": "Drive in"
+          }
+        ],
+        "bottomServiceItems": [
+          "SUVs & 4WDs",
+          "People Movers",
+          "Family Wagons & Hatchbacks",
+          "Pre road trip Safety Checks",
+          "Multiple Vehicles (Fleet Families)"
+        ]
+      },
+      "offerData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1a7f4b1a",
+        "offerEyebrow": "Choose what you need",
+        "offerHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "All Inclusive Pricing. No Crap.",
+          "mainSubOne": "Work Tyres.",
+          "mainSubTwo": ""
+        },
+        "offerPhara": "Fitment, balancing, valves, disposal in every price. No extras when you come to pay.",
+        "offerCartOneTitle": "Standard Work",
+        "offerCardOneDecs": "Reliable commercial tyres for regular on road work use. Good tread life, correct load rating.",
+        "offerCardOnePrice": "99",
+        "offerCardOneSubPhara": "Hankook, Toyo, Cooper commercial range",
+        "offerCardOneLbl": "All included",
+        "offerCardOneInclude": [
+          "Correct load rating confirmed",
+          "Supply + fitment",
+          "Balancing + disposal"
+        ],
+        "offerCardOneBtn": "Get Quote",
+        "offerCardTwoBadge": "Most Popular Best All Round Value",
+        "offerCartTwoTitle": "Heavy Duty",
+        "offerCardTwoDecs": "Top commercial brands for vehicles that carry loads, go off road, and need to last.",
+        "offerCardTwoPrice": "129",
+        "offerCardTwoSubPhara": "Bridgestone, Goodyear, Dunlop commercial",
+        "offerCardTwoLbl": "Everything in Standard, plus",
+        "offerCardTwoInclude": [
+          "Better durability under load",
+          "LT spec & C rated options"
+        ],
+        "offerCardTwoIncludedBonus": [
+          "Bonus: Free rotation at 15,000km",
+          "Bonus: Manufacturer warranty"
+        ],
+        "offerCardTwoIncludeOthers": [],
+        "offerCardTwoBtn": "Book This",
+        "offerCartThreeTitle": "All Terrain",
+        "offerCardThreeDecs": "On road and off road capability for utes that go to site. Maximum versatility.",
+        "offerCardThreePrice": "POA",
+        "offerCardThreeSubPhara": "Toyo, Cooper, Falken AT range",
+        "offerCardThreeLbl": "Everything in Heavy Duty, plus",
+        "offerCardThreeInclude": [
+          "On & off road compound",
+          "Reinforced sidewall options",
+          "Bonus: Free alignment check"
+        ],
+        "offerCardThreeBtn": "Get Quote",
+        "offerCartFourTitle": "Extend Care",
+        "offerCardFourDecs": "Keep your heavy-duty tyres lasting longer under load with scheduled care.",
+        "offerCardFourPrice": "49",
+        "offerCardFourSubPhara": "Per scheduled visit",
+        "offerCardFourLbl": "What's included",
+        "offerCardFourInclude": [
+          "Every 15,000km: rotation & balance",
+          "Free alignment check each visit",
+          "Priority trade booking slot",
+          "10% off your total bill"
+        ],
+        "offerCardFourBtn": "Add Extend Care",
+        "offerValueEyeBrow": "Heavy Duty package what's in the price",
+        "offerValueHeader": "Everything Included. Nothing Added At Pickup.",
+        "offerValueItems": [
+          {
+            "name": "Commercial tyre supply (LT spec)",
+            "price": "$160",
+            "bonus": false
+          },
+          {
+            "name": "Load rating confirmed + fitment",
+            "price": "$30",
+            "bonus": false
+          },
+          {
+            "name": "Wheel balancing",
+            "price": "$20",
+            "bonus": false
+          },
+          {
+            "name": "Valve stem + disposal",
+            "price": "$15",
+            "bonus": false
+          },
+          {
+            "name": "Free rotation at 15,000km",
+            "price": "$40",
+            "bonus": false
+          },
+          {
+            "name": "Premium tyre supply & fitment",
+            "price": "$129",
+            "bonus": true
+          }
+        ],
+        "offerSaveLbl": "Included value",
+        "offerSavePrice": "105",
+        "offerSaveSubLbl": "In services included in your tyre price",
+        "offerSaveBtn": "Book This Package",
+        "offerTotalLbl": "Your Heavy Duty Package price",
+        "offerTotalPrice": "From $129/tyre"
+      },
+      "guaranteeData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1a7f4b1a",
+        "guranteeEyebrow": "No excuses",
+        "guranteeheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "We Fit The Right Tyre.At The Quoted Price.Done Fast.",
+          "mainSubOne": "",
+          "mainSubTwo": ""
+        },
+        "guranteePhara": "Simple. We confirm the correct load rating before we touch the vehicle, quote you a price that includes everything, and have it done in under an hour for most work vehicle fitments. If something's not right with our work, we fix it no arguments.",
+        "guranteeSealIcon": "",
+        "guranteeSealTitle": "Done,Right",
+        "guranteeSealSubTitle": "GUARANTEED",
+        "guranteeSealCaption": "Right load rating. Right price. Done fast. Every time or we fix it.",
+        "guranteePoint": [
+          {
+            "icon": "/clock.png",
+            "title": "Correct Load Rating Every Time",
+            "description": "We confirm the right load and speed index for your vehicle and how you're using it before a single tyre comes off the shelf. No wrong rated tyres. Ever."
+          },
+          {
+            "icon": "/clock.png",
+            "title": "All Inclusive Price No Extras At Pickup",
+            "description": "What we quote includes everything. Nothing appears at the counter that wasn't discussed upfront. The price you agreed is the price you pay."
+          },
+          {
+            "icon": "/clock.png",
+            "title": "Time Guarantee We Tell You When, We Stick To It",
+            "description": "When you book, we tell you how long it'll take. Most commercial fitments are under an hour. We don't keep you waiting you've got a job to get back to."
+          },
+          {
+            "icon": "/clock.png",
+            "title": "12 Month Workmanship Warranty",
+            "description": "All fitment work covered for 12 months. If anything attributable to our work causes an issue, we fix it immediately no charge, no paperwork, no dispute."
+          }
+        ],
+        "guranteeSigQuote": "\"Tradies have been bringing their vehicles here for many years because we get it done and we get it right.\""
+      },
+      "hvcoData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1A7F4B",
+        "iconBackColor": "#1A7F4B",
+        "hvcoEyebrow": "Free Download For Work Vehicles",
+        "hvcoheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "Is Your Work Vehicle Running The Right Tyres?",
+          "mainSubOne": "",
+          "mainSubTwo": ""
+        },
+        "hvcoPhara": "Most tradies don't know their tyre load rating or whether it's right for how they're using the vehicle. Grab our free guide.",
+        "hvcoItems": [
+          "Load rating decoded SL vs XL vs C vs LT explained in plain English",
+          "Right tyre per vehicle type HiLux, Ranger, Transit, Sprinter, Hiace recommendations",
+          "All terrain vs highway which compound for your use case",
+          "Fleet maintenance schedule rotation intervals, pressure checks, when to replace",
+          "Insurance implications what wrong load ratings mean for work vehicle cover"
+        ],
+        "hvcoFormLbl": "Send me the work vehicle guide",
+        "hvcoFormInput": [
+          {
+            "name": "name",
+            "placeholder": "First name"
+          },
+          {
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ],
+        "hvcoFormBtn": "Download Free Guide Instant",
+        "hvcoFormBottomLbl": "No spam. We're a tyre shop, not a mailing list.",
+        "hvcoGuideCoverLbl": "Free Tradie Guide",
+        "hvcoGuidHeadLine": {
+          "highlight": " Tyre Guide",
+          "main": "Work Vehicle",
+          "second": ""
+        },
+        "hvcoGuideCoverSub": "Right load rating, right tyre, less downtime the no BS guide for tradies and fleet operators",
+        "hvcoCoverBy": "KEWDALE TYREPOWER",
+        "hvcoCoverPages": "18 pages · Free instant download",
+        "hvcoGuideValuesitems": [
+          {
+            "lable": "Load rating guide",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Per vehicle tyre recommendations",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Fleet maintenance schedule",
+            "price": "$15",
+            "isFree": false
+          },
+          {
+            "lable": "Your cost",
+            "price": "FREE",
+            "isFree": true
+          }
+        ]
+      },
+      "faqData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1a7f4b1a",
+        "iconBackColor": "#1A7F4B12",
+        "boarderColor": "#1A7F4B33",
+        "faqEyebrow": "Straight answers",
+        "faqheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "No Fluff.Just Facts.",
+          "mainSubOne": "",
+          "mainSubTwo": ""
+        },
+        "faqPhara": "The questions tradies ask us most answered straight, no padding.",
+        "faqContactLbl": "Need a quick answer?",
+        "faqContactTitle": "Just call us",
+        "faqContactSub": "Tell us your vehicle and size. We'll tell you if we have it and how fast we can get you sorted.",
+        "faqContactSubBtn": "Book Fast Turnaround",
+        "faqCatTopicOne": "Turnaround & Stock",
+        "faqCatTopicTwo": "Load Ratings & Technical",
+        "faqCatTopicThree": "Fleet & Pricing",
+        "faqQAItem1": [
+          {
+            "quection": "How fast can you get my vehicle sorted?",
+            "answer": "Most standard commercial fitments 45 to 60 minutes. Call ahead with your vehicle and tyre size. We'll confirm we have stock and get you a time. Arrive at your booked time, we get straight on it. No waiting around when you arrive."
+          },
+          {
+            "quection": "Do you stock LT tyres and C rated commercial van tyres?",
+            "answer": "Yes. We stock LT spec ute tyres and C rated commercial van tyres in the common sizes. Call with your vehicle make and tyre size and we'll tell you immediately what we have. If we don't have your exact size in stock, we'll tell you that too we don't waste your time."
+          },
+          {
+            "quection": "Can you fit me in same day?",
+            "answer": "Usually yes call before 10am and we'll generally get you in that day. Fleet account holders get priority booking. If we can't fit you in same day, we'll give you the earliest available slot and be straight with you about timing."
+          }
+        ],
+        "faqQAItem2": [
+          {
+            "quection": "How do I know if I have the right load rating on my ute or van?",
+            "answer": "Check the tyre placard on your door jamb it'll show the OEM spec. If you're regularly carrying a full load, towing, or going off road on a work ute, you need LT spec tyres. Drive in and we'll check what's on the vehicle and confirm whether it's right for how you're using it. Free, no charge."
+          },
+          {
+            "quection": "My van has passenger tyres on it is that a problem?",
+            "answer": "Yes if your van regularly carries a load, it needs C rated commercial tyres. Passenger tyres on a loaded work van wear faster, run hotter, and can fail under load. It can also be an insurance issue in the event of an incident. If you're unsure what's on your van, drive in and we'll check."
+          },
+          {
+            "quection": "What's the difference between all terrain and highway tyres for my ute?",
+            "answer": "Highway tyres are quieter and wear better for mostly on road use. All terrain tyres handle gravel, dirt, and off road conditions better but wear faster on bitumen. If you're regularly going to site on dirt roads, AT is worth it. If you're mostly on road, a good highway commercial tyre is better value. We'll help you decide based on your actual use."
+          }
+        ],
+        "faqQAItem3": [
+          {
+            "quection": "How does a fleet account work?",
+            "answer": "Easy. Call us, tell us your vehicles. We set up a fleet account your drivers can come in and get serviced without paying on the spot, and you get a single monthly invoice with all jobs itemised. Fleet account holders also get priority booking, which means less waiting and less downtime. From 2 vehicles upward."
+          },
+          {
+            "quection": "Does the price include fitment, balancing and disposal?",
+            "answer": "Yes always. Every quote includes the tyre, fitment, wheel balancing, valve stem, and old tyre disposal. What we say is what you pay. No disposal fee appears when you come to pay. No balancing charge that wasn't mentioned. Full stop."
+          }
+        ]
+      },
+      "urgencyData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1A7F4B",
+        "iconBackColor": "rgba(26,127,75,.1)",
+        "urgencyEyebrow": "Same day spots available limited",
+        "urgencyheader": "Every Hour Counts.",
+        "urgencySecHeader": "Don't lose a day's billing to a slow tyre shop.",
+        "urgencyPhara": "Sameday slots go fast. Call now, get a time, get sorted.",
+        "urgencySubPhara": [
+          "45–60 min turnaround on most commercial fitments",
+          "Fleet account holders get priority booking less downtime guaranteed"
+        ],
+        "urgencySlotBoxLbl": "Same day slots left today",
+        "urgencySlotBoxCount": "4",
+        "urgencySlotBoxUnit": "slots remaining",
+        "urgencySlotBoxSub": "Call now to lock in your time.",
+        "urgencySlotBoxPrimaryBtn": "Book Fast Turnaround",
+        "urgencySlotBoxSecBtn": "Call (08) 9359 1444",
+        "urgencyStrip": [
+          {
+            "icon": "",
+            "stripDescription": "45–60 min turnaround"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Correct load rating confirmed"
+          },
+          {
+            "icon": "",
+            "stripDescription": "All inclusive price no surprises"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Fleet accounts available"
+          }
+        ]
+      },
+      "bookingData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#0d1b2a",
+        "accentColor": "#c9a84c",
+        "bookingEyebrow": "Book Online",
+        "bookingHeader": "Book Your Van In",
+        "bookingPhara": "Tell us when you can spare the truck. We'll confirm your slot within the hour and get you back on the road fast.",
+        "bookingTrustPoints": [
+          "No deposit required to book",
+          "90 minute average turnaround (Subject to availability)",
+          "Upfront price no surprises",
+          "Early drop-off available"
+        ],
+        "bookingServiceTypes": [
+          "Tyre Replacement",
+          "Wheel Alignment",
+          "Tyre Rotation",
+          "Safety Check",
+          "Flat Tyre Repair",
+          "Wheel Balancing",
+          "Other"
+        ],
+        "bookingBtn": "Confirm My Booking",
+        "bookingSuccessTitle": "Booking Received!",
+        "bookingSuccessPhara": "We'll confirm your appointment shortly. Check your email for details.",
+        "bookingErrorPhara": "Something went wrong. Please try again or call us on (08) 9359 1444."
+      },
+      "closeData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1a7f4b1a",
+        "iconBackColor": "rgba(26,127,75,.1)",
+        "boarderColor": "#1A7F4B33",
+        "sectionThirteenEyebrow": "Your move",
+        "sectionThirteenHeading": {
+          "main": "Tradies Who Can't Afford Downtime Choose Kewdale.",
+          "highlight": "Now You Know Why."
+        },
+        "sectionThirteenPhara": "Right tyre, right load rating, done fast, straight price. Call us with your size and we'll get you sorted today.",
+        "sectionThirteenPrimaryBtn": "Call (08) 9359 1444 Same Day",
+        "sectionThirteenSecBtn": "Fleet account",
+        "sectionThirteenCloseTrust": [
+          {
+            "icon": "",
+            "description": "45–60 min turnaround"
+          },
+          {
+            "icon": "",
+            "description": "Correct load rating guaranteed"
+          },
+          {
+            "icon": "",
+            "description": "All inclusive pricing"
+          },
+          {
+            "icon": "",
+            "description": "Fleet accounts available"
+          },
+          {
+            "icon": "",
+            "description": "12 month workmanship warranty"
+          },
+          {
+            "icon": "",
+            "description": "4.7 stars · 300+ reviews"
+          }
+        ],
+        "sectionThirteenCloseInfo": [
+          {
+            "id": 1,
+            "infoTitle": "Kewdale Central Perth",
+            "infoDescription": "Easy access from Belmont, Welshpool, Carlisle, and across the metro. Ample parking for utes and vans."
+          },
+          {
+            "id": 2,
+            "infoTitle": "Trading Hours",
+            "infoDescription": "Mon – Fri: 8:00 AM – 5:00 PM,Saturday: 8:00 AM – 12:00 PM,Sunday: Closed,Early morning slots for tradies who start early."
+          },
+          {
+            "id": 3,
+            "infoTitle": "Call Us Direct",
+            "infoDescription": "Phone: (08) 9359 1444,Email: kewdale@tyrepower.com.au,Tell us your vehicle and size. We'll sort it."
+          }
+        ],
+        "sectionThirteenCloseFooter": [
+          {
+            "label": "Privacy Policy",
+            "target": "privacy-policy"
+          },
+          {
+            "label": "Terms",
+            "target": "terms-of-service"
+          },
+          {
+            "label": "Commercial Tyres",
+            "target": "commercial-tyres"
+          },
+          {
+            "label": "Fleet Accounts",
+            "target": "fleet-accounts"
+          },
+          {
+            "label": "Google Reviews",
+            "target": "testimonials"
+          }
+        ]
+      },
+      "testimonialsData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1a7f4b1a",
+        "testimonialsEyeBrow": "Tradies who trust us",
+        "testimonialsHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "No BS",
+          "mainSubOne": "The Shop Where",
+          "mainSubTwo": " Is Just How We Work."
+        },
+        "testimonialsTopReviewSection": "Tried three places before finding Kewdale. First two didn't have the load rating I needed for the Hilux. Third one did but wanted me to leave it all day. Kewdale had it done in an hour. That's the difference.",
+        "testimonialsTopReviewSectionInitials": "MP",
+        "testimonialsTopReviewSectionName": "Mitch P.",
+        "testimonialsTopReviewSectionMeta": "Sparky · Kewdale",
+        "testimonialsHeaderReviewCardItems": [
+          {
+            "tag": "Fast Turnaround",
+            "text": "In and out in 45 mins. Van was back on the job by lunch. That never happens at other shops.",
+            "initials": "TD",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Tom D.",
+            "meta": "Carpenter · Belmont"
+          },
+          {
+            "tag": "Load Rating",
+            "text": "Checked my van tyres and told me the previous shop had fitted passenger rated. Replaced with proper C rated. Explained why it mattered. Insurance would have been void.",
+            "initials": "SR",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Steve R.",
+            "meta": "Plumber · Welshpool"
+          },
+          {
+            "tag": "Fleet Account",
+            "text": "Three vans, one monthly invoice. No chasing receipts, no admin headache. Priority booking means we're never waiting.",
+            "initials": "LW",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Lisa W.",
+            "meta": "Fleet Owner · Carlisle"
+          },
+          {
+            "tag": "Stock Availability",
+            "text": "Called with a flat on the Ranger. Had my LT sizes in stock, got me in same day. Didn't try to sell me something else.",
+            "initials": "JC",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "James C.",
+            "meta": "Builder · Victoria Park"
+          },
+          {
+            "tag": "No Upsell",
+            "text": "Came in for a puncture repair. They fixed it in 25 mins for $35. Didn't try to sell me a new tyre. That's honesty.",
+            "initials": "AB",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Alex B.",
+            "meta": "Tradie · Perth"
+          },
+          {
+            "tag": "25 Years",
+            "text": "Been coming here for 15 years. Same blokes, same straight talking, same fast service. Wouldn't go anywhere else.",
+            "initials": "RT",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Rob T.",
+            "meta": "Fleet Operator · Kewdale"
+          }
+        ],
+        "testimonialsBottomReviewSectionLbl": "300+ Perth tradies have found their tyre shop.",
+        "testimonialsBottomReviewSectionSub": "Stop wasting time at shops that don't get it.",
+        "testimonialsBottomReviewSectionSubBtn": "Book Fast Turnaround"
+      }
+    },
+    {
+      "slug": "budget",
+      "name": "Budget & Value Tyres",
+      "description": "Best tyre prices in Perth guaranteed. All inclusive pricing, price match guarantee, no hidden fees.",
+      "heroData": {
+        "sectionColor": "#1A7F4B",
+        "heroSliderImages": [
+          "/budget_tyres_icons/hero_images/hero_1.webp",
+          "/budget_tyres_icons/hero_images/hero_2.webp",
+          "/budget_tyres_icons/hero_images/hero_3.webp",
+          "/budget_tyres_icons/hero_images/hero_4.webp",
+          "/budget_tyres_icons/hero_images/hero_5.webp",
+          "/budget_tyres_icons/hero_images/hero_6.webp"
+        ],
+        "backgroundColor": "#0B1C3A",
+        "heroTopBarTxt": "Price match guaranteed",
+        "heroTopBarBtn": "Get Best Price",
+        "heroEyebrow": "Tyrepower WA’s Dealer of the Year 2025",
+        "heroheader": {
+          "highlight": "Lowest Price.",
+          "main": "Quality Tyres."
+        },
+        "heroPhara": "Why pay more? Kewdale Tyrepower delivers top brands at prices that beat the big chains with a price match guarantee to back it up. No hidden fees. No pressure. Just great tyres at a fair price.",
+        "heroMainBtn": "Get My Best Price Now",
+        "heroProof": [
+          "4.7 / 5 300+ Google Reviews \"Best price I found in Perth and quality was spot on.\"",
+          "Perth's highest rated value tyre shop All major brands · All prices upfront"
+        ],
+        "heroStatusBar": [
+          {
+            "number": "$0",
+            "unit": " hidden fees",
+            "lable": "Price you see = price you pay"
+          },
+          {
+            "number": "100",
+            "unit": "%",
+            "lable": "Price match we beat any quote"
+          },
+          {
+            "number": "25",
+            "unit": " + YRS",
+            "lable": "YOUR LOCAL PERTH EXPERTS"
+          },
+          {
+            "number": "All",
+            "unit": " brands",
+            "lable": "Budget to premium in stock"
+          }
+        ]
+      },
+      "googleReviewData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#E8F5EE",
+        "proofLable": "Trusted by price savvy Perth drivers real savings, verified reviews, no gimmicks",
+        "proofData": [
+          {
+            "icon": "/budget_tyres_icons/dollar.png",
+            "number": "100",
+            "unit": "%",
+            "line1": "Price match we beat",
+            "line2": ""
+          },
+          {
+            "icon": "/budget_tyres_icons/hidden.png",
+            "number": "$0",
+            "unit": "",
+            "line1": "Hidden fees, ever",
+            "line2": ""
+          },
+          {
+            "icon": "/budget_tyres_icons/clock.png",
+            "number": "90",
+            "unit": "MIN",
+            "line1": "Average service time (Subject to availability)",
+            "line2": ""
+          },
+          {
+            "icon": "/budget_tyres_icons/same-day.png",
+            "number": "SAME",
+            "unit": "-DAY",
+            "line1": "Bookings available",
+            "line2": ""
+          }
+        ]
+      },
+      "proofData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#E8F5EE",
+        "borderColor": "#1A7F4B33"
+      },
+      "problemData": {
+        "slug": "",
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#e8f5ee",
+        "borderColor": "#1A7F4B33",
+        "problemEyebrow": "Sound familiar?",
+        "problemheader": {
+          "highlightColor": "#FFFFFF",
+          "seccondaryText": "Of Drivers Who Don't Know Better.",
+          "main": "Perth Tyre Shops Are",
+          "highlight": "Taking Advantage"
+        },
+        "problemPhara": "You just need tyres nothing fancy. But every shop you call gives you a different price, adds fees you didn't ask for, and makes you feel like you're getting a deal when you're probably not. The truth is, most Perth drivers overpay for tyres every single time simply because they don't know what fair actually looks like.",
+        "problemQuote": "\"Quoted $180 a tyre online, got to the counter and it was $240 after 'installation and extras'. Never again.\"",
+        "problemCite": "Real Perth customer review",
+        "problemPainCard": [
+          {
+            "icon": "/budget_tyres_icons/dollar.png",
+            "title": "The online quote never matches the final bill",
+            "description": "Fitment, disposal, valve stems, balancing each tacked on after you've already said yes. The advertised price is never what you actually pay."
+          },
+          {
+            "icon": "/budget_tyres_icons/family.png",
+            "title": "Pushed toward tyres you don't need",
+            "description": "Sales staff with targets steering you to premium options when mid range would do the job perfectly. You came in for value, not an upsell."
+          },
+          {
+            "icon": "/budget_tyres_icons/hidden.png",
+            "title": "No idea if you're getting a fair price",
+            "description": "With no way to compare apples to apples, you're at the mercy of whatever the shop decides to charge. Most people just hope for the best."
+          },
+          {
+            "icon": "/budget_tyres_icons/warning.png",
+            "title": "Cheap tyres that don't last",
+            "description": "Going too cheap and landing on unknown brand tyres that wear out in 12 months costing more long term than a decent mid range would have."
+          },
+          {
+            "icon": "/budget_tyres_icons/rotate.png",
+            "title": "Wasting time ringing around for quotes",
+            "description": "Calling five shops, getting five different answers, none including everything. Time wasted just to figure out what a fair price looks like."
+          }
+        ],
+        "problemBridgeTxt": "There is a better way",
+        "problemBridgeTxtStrongColor": "",
+        "problemBridgeTxtStrong": "Guaranteed best price. No guesswork. No games."
+      },
+      "amplifyData": {
+        "slugName": "",
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1A7F4B1a",
+        "amplifyEyebrow": "The real cost of overpaying",
+        "amplifyheader": {
+          "highlight": "Hundreds Every Year",
+          "main": "Perth Drivers Lose",
+          "second": "On Tyres They Could Have Paid Less For"
+        },
+        "amplifyPhara": "It's not just the price on the day. Hidden fees, wrong tyres, poor fitment it adds up to a lot more than you think.",
+        "amplifyCal": "false",
+        "amplifyItems": [
+          {
+            "tag": "Hidden Fees",
+            "number": "$60+",
+            "title": "Added at the counter per tyre",
+            "desc": "Fitment, balancing, disposal, valves sold separately even though you assumed they were in the price."
+          },
+          {
+            "tag": "Wrong Tyres",
+            "number": "12mo",
+            "title": "Until you're buying again",
+            "desc": "Cheap unknown brand tyres wear out fast. The \"bargain\" ends up costing twice as much over two years."
+          },
+          {
+            "tag": "Upselling",
+            "number": "$200+",
+            "title": "Spent on tyres you didn't need",
+            "desc": "Pushed into performance tyres for a family hatchback. Premium when mid range lasts just as long for half the price."
+          },
+          {
+            "tag": "Time",
+            "number": "2hrs",
+            "title": "Wasted comparing quotes",
+            "desc": "Ringing around shops, getting quotes that include different things. Time spent just trying to figure out who's honest."
+          },
+          {
+            "tag": "Safety",
+            "number": "3×",
+            "title": "Faster wear from poor fitment",
+            "desc": "Skipped balancing and incorrect alignment from a rushed cheap job means your new tyres wear unevenly and die early."
+          },
+          {
+            "tag": "Peace of Mind",
+            "number": "Zero",
+            "title": "Confidence you got a fair deal",
+            "desc": "Leaving the shop with that nagging feeling did I just get ripped off? Without a price guarantee, you'll never know."
+          }
+        ],
+        "amplifyKickerlbl": "Here's the thing",
+        "amplifyKickerHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "Great Price ",
+          "main": "Getting A",
+          "second": " On Tyres Doesn't Mean Settling For Cheap Ones."
+        },
+        "amplifyKickerPhara": "Quality and value are not opposites. The right tyre at the right price fitted properly, no hidden extras is exactly what Kewdale Tyrepower delivers every time.",
+        "amplifyKickerBtn": "Show me the prices"
+      },
+      "solutionData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B",
+        "backgroundColor": "#e8f5ee",
+        "solutionEyebrow": "Introducing a smarter way to buy tyres",
+        "solutionHeader": {
+          "main": "Kewdale Tyrepower",
+          "highlight": "Best Price. Best Quality.",
+          "second": "No Compromise."
+        },
+        "solutionPhara1": "We believe you shouldn't have to choose between a fair price and a quality tyre. At Kewdale Tyrepower, you get both every time, guaranteed.",
+        "solutionPhara2": "We stock every major brand from budget friendly options right through to premium and we'll tell you honestly which suits your car and budget. No upsells. No pushing you toward the most expensive option in the bay.",
+        "solutionPhara3": "And if you find a genuine like for like quote cheaper anywhere in Perth, we'll beat it. That's not a marketing line it's our Price Match Guarantee, and we back it on every single job.",
+        "solutionPromiseLbl": "Our Core Promise",
+        "solutionPromiseDecs": "\"Upfront price. Best value. Right tyre for your car and your budget every time, no exceptions.\"",
+        "solutionPillarItems": [
+          {
+            "num": "01",
+            "title": "Price Match Guarantee We Beat Any Like for Like Quote",
+            "desc": "Find it cheaper in Perth? Show us the quote and we'll beat it. Not match beat. Every time, guaranteed.(T & C’s apply)"
+          },
+          {
+            "num": "02",
+            "title": "Everything Included No Add ons at the Counter",
+            "desc": "Fitment, balancing, disposal, valve stems all included in the price we quote. What you see is what you pay."
+          },
+          {
+            "num": "03",
+            "title": "Honest Advice Right Tyre for Your Budget",
+            "desc": "We recommend what's right for your car and how you drive not what makes us the most margin. Sometimes that's mid range. We'll be straight with you."
+          },
+          {
+            "num": "04",
+            "title": "Quality Fitment No Shortcuts on the Job",
+            "desc": "A cheap tyre fitted badly costs more long term. Every job is balanced, aligned, and checked. No shortcuts ever."
+          }
+        ],
+        "solutionRoadMapItems": [
+          {
+            "num": "01",
+            "title": "Get Your Price",
+            "desc": "Call or fill in the form. Full price in 2 minutes. No obligation.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 1"
+          },
+          {
+            "num": "02",
+            "title": "Book In",
+            "desc": "Same day and next day slots available. Times that suit you.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 2"
+          },
+          {
+            "num": "03",
+            "title": "Done in 90 Min",
+            "desc": "Fitted, balanced, checked. No shortcuts, no surprises. (Subject to availability)",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 3"
+          },
+          {
+            "num": "04",
+            "title": "Pay What We Quoted",
+            "desc": "Exactly what we said. Not a cent more. Drive away happy.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 4"
+          }
+        ]
+      },
+      "servicesData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#e8f5ee",
+        "serviceEyebrow": "What we offer",
+        "serviceHeader": {
+          "main": "Every Service.",
+          "highlight": "Every Price Upfront."
+        },
+        "serviceTopBtn": "Get a Quote",
+        "proServiceCard": {
+          "icon": "",
+          "lbl": "Best Value",
+          "title": "Tyre Supply & Fitment",
+          "time": "90 minutes",
+          "description": "Budget to premium brands in stock. Honest advice on the right tyre for your car and budget no upsells, no pressure.",
+          "includes": [
+            "Supply + fitment",
+            "Wheel balancing included",
+            "Valve stems + disposal"
+          ],
+          "cta": "Get quote"
+        },
+        "serviceCardItem": [
+          {
+            "icon": "/budget_tyres_icons/wheel-alignment.png",
+            "title": "Wheel Alignment",
+            "time": "45 minutes",
+            "description": "Bad alignment wears your new tyres out 2–3× faster. Protect your investment with a proper check.",
+            "includes": ["Computerised alignment", "Before & after report"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/budget_tyres_icons/tool.png",
+            "title": "Puncture Repair",
+            "time": "30 minutes",
+            "description": "If it's repairable, we repair it. Save the cost of a new tyre when a proper fix does the job.",
+            "includes": [
+              "Full tyre inspection first",
+              "Internal repair + rebalance"
+            ],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/budget_tyres_icons/balance.png",
+            "title": "Wheel Balancing",
+            "time": "45 minutes",
+            "description": "Uneven wear and vibration costs more in replacements long term. A wheel balance extends tyre life significantly.",
+            "includes": ["All 4 wheels balanced"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/budget_tyres_icons/rotate.png",
+            "title": "Tyre Rotation",
+            "time": "30–40 minutes",
+            "description": "Rotate regularly and get thousands more kilometres from your tyres. One of the best value maintenance jobs you can do.",
+            "includes": ["All 4 wheels rotated", "Pressure check included"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/budget_tyres_icons/safety.png",
+            "title": "Free Safety Check",
+            "time": "10 minutes",
+            "description": "Not sure if you need new tyres? Drive in and we'll check tread depth, pressure, and condition free. Honest answer, no obligation.",
+            "includes": ["Full tread & pressure check", "No obligation, ever"],
+            "cta": "Drive in"
+          }
+        ],
+        "bottomServiceItems": [
+          "4WD & SUV Tyres",
+          "Run flat Tyres",
+          "Fleet Accounts",
+          "Zippay Available",
+          "Afterpay Available"
+        ]
+      },
+      "offerData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#e8f5ee",
+        "offerEyebrow": "Choose your package",
+        "offerHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "All Inclusive.",
+          "mainSubOne": "Every Price",
+          "mainSubTwo": "No Surprises."
+        },
+        "offerPhara": "Fitment, balancing, valves, disposal included in every price below. What you see is exactly what you pay.",
+        "offerCartOneTitle": "Budget Essential",
+        "offerCardOneDecs": "Basic, reliable tyre replacement at our most affordable, no-frills entry point.",
+        "offerCardOnePrice": "99",
+        "offerCardOneSubPhara": "All major brands in stock",
+        "offerCardOneLbl": "All included",
+        "offerCardOneInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardOneBtn": "Book Now",
+        "offerCardTwoBadge": "Most Popular Best Value For Money",
+        "offerCartTwoTitle": "Total Value Care",
+        "offerCardTwoDecs": "Best Value For Money. Get the tyre, the tracking alignment, and a complete preventative safety check to keep your car running cheaply.",
+        "offerCardTwoPrice": "505",
+        "offerCardTwoSubPhara": "Tyre + alignment + full check",
+        "offerCardTwoLbl": "Everything in Smart Saver,, plus",
+        "offerCardTwoInclude": [
+          "Professional fitment",
+          "Wheel balancing",
+          "Full tyre rotation",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardTwoIncludedBonus": [
+          "Bonus: Priority booking for next visit",
+          "Bonus: At 5,000 km: One-time free tyre checkup. Every 10,000 km (up to 50,000 km): Rotation, balancing, alignment + 10% off the total bill."
+        ],
+        "offerCardTwoIncludeOthers": [
+        ],
+        "offerCardTwoBtn": "Book Now",
+        "offerCartThreeTitle": "Smart Saver",
+        "offerCardThreeDecs": "Keeps your steering straight and protects your investment by adding an alignment to prevent rapid tyre wear.",
+        "offerCardThreePrice": "208",
+        "offerCardThreeSubPhara": "Tyre + alignment",
+        "offerCardThreeLbl": "Everything in Budget Essential,, plus",
+        "offerCardThreeInclude": [
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardThreeBtn": "Book Now",
+        "offerCartFourTitle": "Extend Care",
+        "offerCardFourDecs": "Affordable ongoing care that stretches every dollar out of your tyres.",
+        "offerCardFourPrice": "29",
+        "offerCardFourSubPhara": "Per scheduled visit",
+        "offerCardFourLbl": "What's included",
+        "offerCardFourInclude": [
+          "Every 10,000km: rotation & balance",
+          "Free alignment check each visit",
+          "Priority booking slot",
+          "10% off your total bill"
+        ],
+        "offerCardFourBtn": "Add Extend Care",
+        "offerValueEyeBrow": "What you’re actually getting",
+        "offerValueHeader": "The Total Value Care Package Everything Stacked Up",
+        "offerValueItems": [
+          {
+            "name": "Total Value Care tyre supply & fitment",
+            "price": "$396",
+            "bonus": false
+          },
+          {
+            "name": "Wheel balancing & rotation",
+            "price": "$140",
+            "bonus": false
+          },
+          {
+            "name": "Computerised wheel alignment",
+            "price": "$109",
+            "bonus": false
+          },
+          {
+            "name": "Tyre Disposal",
+            "price": "$20",
+            "bonus": true
+          }
+        ],
+        "offerSaveLbl": "You save up to",
+        "offerSavePrice": "160",
+        "offerSaveSubLbl": "Worth of services included in your per tyre price",
+        "offerSaveBtn": "Book This Package",
+        "offerTotalLbl": "Your Total Value Care Package price",
+        "offerTotalOldPrice": "From $665",
+        "offerTotalPrice": "505"
+      },
+      "guaranteeData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#e8f5ee",
+        "guranteeEyebrow": "Zero risk",
+        "guranteeheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "We Beat It.",
+          "mainSubOne": "If You Find It Cheaper,",
+          "mainSubTwo": "Simple As That."
+        },
+        "guranteePhara": "We're so confident in our pricing we back it with a real guarantee: bring us a genuine like for like quote from any Perth tyre shop and we will beat it not match, beat. And if anything we do isn't right, we fix it free. No arguments.",
+        "guranteeSealIcon": "",
+        "guranteeSealTitle": "Price,Match",
+        "guranteeSealSubTitle": "GUARANTEED",
+        "guranteeSealCaption": "Find it cheaper in Perth? Show us the quote. We'll beat it not just match it.(T's & C's apply)",
+        "guranteePoint": [
+          {
+            "icon": "/budget_tyres_icons/dollar.png",
+            "title": "100% Price Match Guarantee",
+            "description": "Show us any genuine like for like Perth quote same brand, same size, all services and we'll beat it on price. Every time."
+          },
+          {
+            "icon": "/budget_tyres_icons/checked.png",
+            "title": "All Inclusive Price Guarantee",
+            "description": "The price we quote includes everything fitment, balancing, disposal, valves. If extras appear at the counter without your approval, you don't pay them."
+          },
+          {
+            "icon": "/budget_tyres_icons/clock.png",
+            "title": "Done Right First Time Guarantee",
+            "description": "Every job is checked before your car leaves. If there's a workmanship issue we fix it immediately no charge, no debate."
+          }
+        ],
+        "guranteeSigQuote": "\"Fair price, quality job, no surprises. That's the deal and we've kept it for many years.\""
+      },
+      "hvcoData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#0B1C3A",
+        "iconBackColor": "#1A7F4B",
+        "hvcoEyebrow": "Free Download No catch",
+        "hvcoheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "Fair Deal?",
+          "mainSubOne": "Not Sure You're Getting A ",
+          "mainSubTwo": "Read This First."
+        },
+        "hvcoPhara": "Before you spend a dollar on tyres, grab our free guide.",
+        "hvcoItems": [
+          "Perth tyre price guide 2025  what you should actually be paying per brand",
+          "The 6 hidden fees to watch for which ones are legitimate vs pure padding",
+          "Cheap vs value tyres explained when to save and when cheap costs more",
+          "How to use a price match guarantee exact words to say to get a better deal",
+          "Tyre life maximiser checklist get 30% more km from every set"
+        ],
+        "hvcoFormLbl": "Send me the free price guide",
+        "hvcoFormInput": [
+          {
+            "name": "name",
+            "placeholder": "First name"
+          },
+          {
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ],
+        "hvcoFormBtn": "Download Free Guide Instant Access",
+        "hvcoFormBottomLbl": "No spam. We hate junk mail as much as you do.",
+        "hvcoGuideCoverLbl": "Free Guide",
+        "hvcoGuidHeadLine": {
+          "highlight": " Too Much",
+          "main": " Are You Paying",
+          "second": " For Tyres?"
+        },
+        "hvcoGuideCoverSub": "The Perth Driver's Complete Tyre Price Guide know what's fair before you spend a dollar.",
+        "hvcoCoverBy": "KEWDALE TYREPOWER",
+        "hvcoCoverPages": "28 pages · Free instant download",
+        "hvcoGuideValuesitems": [
+          {
+            "lable": "Perth price guide 2025",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Hidden fee decoder",
+            "price": "$19",
+            "isFree": false
+          },
+          {
+            "lable": "Price match script",
+            "price": "$15",
+            "isFree": false
+          },
+          {
+            "lable": "Your cost today",
+            "price": "FREE",
+            "isFree": true
+          }
+        ]
+      },
+      "faqData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#e8f5ee",
+        "iconBackColor": "#1A7F4B12",
+        "boarderColor": "#1A7F4B33",
+        "faqEyebrow": "Questions?",
+        "faqheader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "Answers.",
+          "mainSubOne": "Straight",
+          "mainSubTwo": "No Waffle."
+        },
+        "faqPhara": "The questions we get asked most about pricing, tyres, and how it all works answered plainly.",
+        "faqContactLbl": "Still not sure?",
+        "faqContactTitle": "Talk to us directly",
+        "faqContactSub": "Call and we'll give you a price in under 2 minutes.",
+        "faqContactSubBtn": "Book Online",
+        "faqCatTopicOne": "Pricing & Price Match",
+        "faqCatTopicTwo": "Tyres & Advice",
+        "faqCatTopicThree": "Booking & Process",
+        "faqQAItem1": [
+          {
+            "quection": "Does your price include fitment, balancing and disposal?",
+            "answer": "Yes always. Every price we give you includes the tyre, fitment, wheel balancing, new valve stems, and old tyre disposal. No extras at the counter. What we quote is what you pay."
+          },
+          {
+            "quection": "How does your price match guarantee actually work?",
+            "answer": "Simple. Get a written quote from any Perth tyre shop for the same tyre same brand, model, and size and bring it to us. We'll beat their price. Not match beat. The quote must include all services (fitment, balancing, disposal). We confirm on the spot."
+          },
+          {
+            "quection": "What if the price changes when I get to the counter?",
+            "answer": "It won't. That's our Price Lock Guarantee. The only exception is if you ask for additional work once we've started in which case we'll always get your approval first. No surprises, ever."
+          }
+        ],
+        "faqQAItem2": [
+          {
+            "quection": "What's the difference between cheap tyres and budget friendly tyres?",
+            "answer": "Cheap tyres (no name brands) wear out in 12–18 months, meaning you're buying again much sooner. Budget friendly means getting a well rated tyre at the best possible price value over the long run. We'll be straight with you on which option delivers the best cost per kilometre for your situation."
+          },
+          {
+            "quection": "Do I really need all four tyres replaced?",
+            "answer": "Only if they actually need replacing. We check each tyre and only recommend replacing what's necessary. If two are fine, we'll tell you. We'd rather keep you as a long term customer than make an extra $200 on tyres you don't need."
+          },
+          {
+            "quection": "Can you repair my puncture instead of replacing the tyre?",
+            "answer": "If it's repairable, we repair it. We assess every puncture honestly. If the tyre is in the repairable zone and has life left, a proper internal repair saves you the cost of a replacement. We won't sell you a new tyre when a repair is the right call."
+          }
+        ],
+        "faqQAItem3": [
+          {
+            "quection": "How long will it take?",
+            "answer": "Most fitments take 90 minutes or less. We'll give you a time when you book and we stick to it. Wait with us or drop the car whatever suits you.(Subject to availability)"
+          },
+          {
+            "quection": "Can I drive in without booking?",
+            "answer": "Yes but booking ahead guarantees your slot, especially for same day service. Walk ins are welcome when we have availability, but we can't always fit you in on the spot during busy periods. A quick call takes 2 minutes and locks in your time."
+          },
+          {
+            "quection": "Is there a free check if I'm not sure I need new tyres?",
+            "answer": "Yes. Drive in anytime and we'll check all four tyres tread depth, pressure, and condition at no charge. We'll give you an honest answer. If they're fine, we'll tell you. No obligation whatsoever."
+          }
+        ]
+      },
+      "urgencyData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#1A7F4B",
+        "iconBackColor": "rgba(26,127,75,.1)",
+        "urgencyEyebrow": "Limited slots available for today’s deal.",
+        "urgencyheader": "Don't Leave Money On The Table.",
+        "urgencySecHeader": "Every day you wait is another day you could be paying more than you need to.",
+        "urgencyPhara": "Worn tyres don't get cheaper to fix and this week's stock pricing won't last. Lock in your best price today to get a quote, zero obligation.",
+        "urgencySubPhara": [
+          "This week only extra 5% off full sets of 4 on mid range brands",
+          "Price match still applies find it cheaper and we beat it on top of the deal",
+          "Tread below 1.5mm is illegal in WA"
+        ],
+        "urgencySlotBoxLbl": "Same day slots remaining today",
+        "urgencySlotBoxCount": "3",
+        "urgencySlotBoxUnit": "spots left",
+        "urgencySlotBoxSub": "Slots fill fast. Book now to secure yours.",
+        "urgencySlotBoxPrimaryBtn": "Get My Best Price Now",
+        "urgencySlotBoxSecBtn": "Call (08) 9359 1444",
+        "urgencyStrip": [
+          {
+            "icon": "",
+            "stripDescription": "Tread below 1.5mm is illegal in WA"
+          },
+          {
+            "icon": "",
+            "stripDescription": "All inclusive price nothing added at counter"
+          },
+          {
+            "icon": "",
+            "stripDescription": "We beat any Perth like for like quote"
+          },
+          {
+            "icon": "",
+            "stripDescription": "Free check 10 min, no obligation (Subject to availability)"
+          }
+        ]
+      },
+      "bookingData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#0d1b2a",
+        "accentColor": "#c9a84c",
+        "bookingEyebrow": "Book Online",
+        "bookingHeader": "Book Your Fitment",
+        "bookingPhara": "Pick a time that works for you. We'll confirm your slot within the hour and have the price locked in before you arrive.",
+        "bookingTrustPoints": [
+          "No deposit required to book",
+          "90 minute average turnaround (Subject to availability)",
+          "Upfront price no surprises",
+          "Price beat guarantee"
+        ],
+        "bookingServiceTypes": [
+          "Tyre Replacement",
+          "Wheel Alignment",
+          "Tyre Rotation",
+          "Safety Check",
+          "Flat Tyre Repair",
+          "Wheel Balancing",
+          "Other"
+        ],
+        "bookingBtn": "Confirm My Booking",
+        "bookingSuccessTitle": "Booking Received!",
+        "bookingSuccessPhara": "We'll confirm your appointment shortly. Check your email for details.",
+        "bookingErrorPhara": "Something went wrong. Please try again or call us on (08) 9359 1444."
+      },
+      "closeData": {
+        "sectionColor": "#1A7F4B",
+        "backgroundColor": "#e8f5ee",
+        "iconBackColor": "rgba(26,127,75,.1)",
+        "boarderColor": "#1A7F4B33",
+        "sectionThirteenEyebrow": "Your move",
+        "sectionThirteenHeading": {
+          "main": "Smart Perth Drivers Don't Overpay For Tyres.",
+          "highlight": "And Now You Don't Have To Either."
+        },
+        "sectionThirteenPhara": "You've seen the prices, the guarantee, and what other Perth drivers are saving. All inclusive pricing. Price match guarantee. Quality fitment. All that's left is getting your best price takes 2 minutes.",
+        "sectionThirteenPrimaryBtn": "Get My Best Price Now",
+        "sectionThirteenSecBtn": "Call (08) 9359 1444",
+        "sectionThirteenCloseTrust": [
+          {
+            "icon": "",
+            "description": "Price Match Guaranteed (T's & C's apply)"
+          },
+          {
+            "icon": "",
+            "description": "All inclusive pricing"
+          },
+          {
+            "icon": "",
+            "description": "4.7 stars · 300+ Google reviews"
+          },
+          {
+            "icon": "",
+            "description": "90 min average service (Subject to availability)"
+          }
+        ],
+        "sectionThirteenCloseInfo": [
+          {
+            "id": 1,
+            "infoTitle": "Find Us in Kewdale",
+            "infoDescription": "Serving Kewdale, Belmont, Victoria Park, Welshpool and surrounding suburbs."
+          },
+          {
+            "id": 2,
+            "infoTitle": "Trading Hours",
+            "infoDescription": "Mon – Fri: 8:00 AM – 5:00 PM,Saturday: 8:00 AM – 12:00 PM,Sunday: Closed,Same day bookings close 3pm."
+          },
+          {
+            "id": 3,
+            "infoTitle": "Get In Touch",
+            "infoDescription": "Phone: (08) 9359 1444,Email: kewdale@tyrepower.com.au,We answer the phone. No robot, no hold music."
+          }
+        ],
+        "sectionThirteenCloseFooter": [
+          {
+            "label": "Privacy Policy",
+            "target": "privacy-policy"
+          },
+          {
+            "label": "Terms of Service",
+            "target": "terms-of-service"
+          },
+          {
+            "label": "Tyre Brands",
+            "target": "proof"
+          },
+          {
+            "label": "Budget tyre",
+            "target": "service"
+          },
+          {
+            "label": "Google Reviews",
+            "target": "testimonials"
+          }
+        ]
+      },
+      "testimonialsData": {
+        "sectionColor": "#1A7F4B",
+        "borderColor": "#1A7F4B33",
+        "backgroundColor": "#1A7F4B1a",
+        "testimonialsEyeBrow": "Real savings. Real customers.",
+        "testimonialsHeader": {
+          "highlightColor": "#1A7F4B",
+          "highlight": "Overpaying.",
+          "mainSubOne": "Perth Drivers Who Stopped",
+          "mainSubTwo": ""
+        },
+        "testimonialsTopReviewSection": "Called three places before Kewdale. The other two gave me prices online then added $60 per tyre in extras at the counter. Kewdale quoted me everything included upfront and that's exactly what I paid. Saved about $180 on the full set. Won't go anywhere else now.",
+        "testimonialsTopReviewSectionInitials": "TR",
+        "testimonialsTopReviewSectionName": "Tony R.",
+        "testimonialsTopReviewSectionMeta": "Electrician · Belmont",
+        "testimonialsHeaderReviewCardItems": [
+          {
+            "tag": "Price Match",
+            "text": "Showed them a quote from another shop and they beat it by $20 per tyre without me even having to argue. Didn't expect it to be that easy.",
+            "initials": "KL",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Karen L.",
+            "meta": "Admin · Victoria Park"
+          },
+          {
+            "tag": "No Hidden Fees",
+            "text": "Quoted $95 per tyre over the phone. Paid $95 at the counter. That never happens. These guys are the real deal.",
+            "initials": "MP",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Mark P.",
+            "meta": "Warehouse · Kewdale"
+          },
+          {
+            "tag": "Honest Advice",
+            "text": "Told them my budget. They found a tyre that suited my car perfectly. Didn't try to sell me anything more expensive. Refreshing.",
+            "initials": "SN",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Sandra N.",
+            "meta": "Nurse · Welshpool"
+          },
+          {
+            "tag": "Great Value",
+            "text": "Full set of four fitted and balanced for less than two tyres quoted elsewhere. Quality was perfect, done in 45 minutes flat.",
+            "initials": "JH",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Jason H.",
+            "meta": "Driver · Belmont"
+          },
+          {
+            "tag": "Repair Not Replace",
+            "text": "Went in expecting to buy a new tyre. They said it was repairable and fixed it for $35. Another shop would have sold me a new one.",
+            "initials": "BW",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Brenda W.",
+            "meta": "Teacher · Carlisle"
+          },
+          {
+            "tag": "Repeat Customer",
+            "text": "Four cars in the family, all come here. Consistent price, consistent quality, never a surprise. That's why we keep coming back.",
+            "initials": "GC",
+            "gradient": "linear-gradient(135deg,#1A7F4B,#0D5B55)",
+            "name": "Greg C.",
+            "meta": "Family · Kewdale"
+          }
+        ],
+        "testimonialsBottomReviewSectionLbl": "300+ Perth drivers have found their fair price here.",
+        "testimonialsBottomReviewSectionSub": "Ready to stop guessing and start saving?",
+        "testimonialsBottomReviewSectionSubBtn": "Get My Best Price"
+      }
+    },
+    {
+      "slug": "enthusiat",
+      "name": "Performance Tyres",
+      "description": "Performance tyres for enthusiasts. Michelin, Pirelli, Continental expert fitment, precision alignment.",
+      "heroData": {
+        "sectionColor": "#D4000F",
+        "heroSliderImages": [
+          "/performance_icons/hero_images/hero1.webp",
+          "/performance_icons/hero_images/hero2.webp",
+          "/performance_icons/hero_images/hero3.webp",
+          "/performance_icons/hero_images/hero4.webp",
+          "/performance_icons/hero_images/hero5.webp",
+          "/performance_icons/hero_images/hero6.webp"
+        ],
+        "backgroundColor": "#080C14",
+        "heroTopBarTxt": "Performance specialists",
+        "heroTopBarBtn": "Book Fitment",
+        "heroEyebrow": "Tyrepower WA’s Dealer of the Year 2025",
+        "heroheader": {
+          "highlight": "Better Than A Generic Tyre.",
+          "main": "Your Car Deserves"
+        },
+        "heroPhara": "You've put serious thought into your build. We put the same thought into what goes on it. Performance brands, correct load and speed ratings, and a team that actually knows the difference between a Pilot Sport 4S and a Sport Maxx RT2.",
+        "heroMainBtn": "Book Performance Fitment",
+        "heroProof": [
+          "4.7 / 5 300+ Google Reviews \"Finally a shop that actually knows what they're talking about.\"",
+          "Perth's performance tyre specialists Michelin · Pirelli · Continental · Bridgestone"
+        ],
+        "heroStatusBar": [
+          {
+            "number": "All",
+            "unit": " sizes",
+            "lable": "Performance & staggered (Subject to availability)"
+          },
+          {
+            "number": "4",
+            "unit": "-wheel",
+            "lable": "Precision alignment on every job"
+          },
+          {
+            "number": "W",
+            "unit": "/Y",
+            "lable": "Speed ratings we regularly fit"
+          },
+          {
+            "number": "25",
+            "unit": "+ yrs",
+            "lable": "Fitting performance tyres in Perth"
+          }
+        ]
+      },
+      "googleReviewData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#d4000f14",
+        "proofLable": "Trusted by Perth's serious drivers modified cars, sports cars, track days and everything in between",
+        "proofData": [
+          {
+            "icon": "/performance_icons/performanse.png",
+            "number": "Pilot",
+            "unit": " 4S",
+            "line1": "Michelin in stock",
+            "line2": ""
+          },
+          {
+            "icon": "/performance_icons/wheel.png",
+            "number": "4",
+            "unit": " - Wheel",
+            "line1": "Precision alignment",
+            "line2": ""
+          },
+          {
+            "icon": "/performance_icons/safety-icon.png",
+            "number": "Run",
+            "unit": "-flat",
+            "line1": "OEM spec fitments",
+            "line2": ""
+          },
+          {
+            "icon": "/performance_icons/clock.png",
+            "number": "SAME",
+            "unit": "-DAY",
+            "line1": "Performance fitment",
+            "line2": ""
+          }
+        ]
+      },
+      "proofData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#d4000f14",
+        "borderColor": "#D4000F33"
+      },
+      "problemData": {
+        "slug": "performance-tyres",
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#D4000F1a",
+        "borderColor": "#D4000F33",
+        "problemEyebrow": "The frustration is real",
+        "problemheader": {
+          "highlightColor": "#FFFFFF",
+          "main": "Most Tyre Shops ",
+          "highlight": "Can't Tell A Sport Maxx From A Street Response.",
+          "seccondaryText": ""
+        },
+        "problemPhara": "You've done the research. You know exactly what your car needs the right compound, the right load rating, the right profile. Then you walk into a shop and the person behind the counter gives you a blank look and reaches for the catalogue.\n\nFitting the wrong tyre on a performance car isn't just a waste of money it undermines every other upgrade you've made. Your suspension geometry, your alignment, your braking distances. All of it depends on what's actually touching the road.",
+        "problemQuote": "\"Went in wanting Pilot Sport 4S in 255/35/19. They tried to sell me a Hankook Ventus instead. Called it 'basically the same thing.' It is not.\"",
+        "problemCite": "Perth car enthusiast, Google review",
+        "problemPainCard": [
+          {
+            "icon": "/performance_icons/check.png",
+            "title": "Staff who don't know the product",
+            "description": "Recommending whatever's in stock rather than what's right for your car. If they can't tell you the UTQG rating, wet vs dry compound trade offs, or why your OEM calls for a run flat  you're in the wrong place."
+          },
+          {
+            "icon": "/performance_icons/alert-triangle-icon.png",
+            "title": "Wrong speed or load rating fitted",
+            "description": "A downgraded speed rating might clear fitment visually but it voids your insurance and compromises handling at high speeds. Most shops don't think to check or don't know to."
+          },
+          {
+            "icon": "/performance_icons/wrench.png",
+            "title": "Sloppy fitment undoing your alignment",
+            "description": "Careless mounting, wrong torque on the wheel bolts, skipped TPMS reset the small stuff that any enthusiast knows matters but most shops treat as box ticking."
+          },
+          {
+            "icon": "/performance_icons/box.png",
+            "title": "Your specific size \"not in stock\"",
+            "description": "Performance sizes especially staggered setups, 19\" and 20\" low profiles get the shoulder shrug and \"we can order it in.\" You've been here before.(Subject to availability. While we stock an extensive range, ultra-rare sizes may require a custom order)."
+          },
+          {
+            "icon": "/performance_icons/slider.png",
+            "title": "Generic alignment that ignores your setup",
+            "description": "Standard OEM alignment specs on a lowered car, or a car with camber adjustments, is worse than useless. You need someone who understands what your suspension is actually doing."
+          }
+        ],
+        "problemBridgeTxt": "Here's what enthusiasts actually need",
+        "problemBridgeTxtStrongColor": "#FFFFFF",
+        "problemBridgeTxtStrong": "Technical knowledge. Right stock. Proper fitment. No lectures."
+      },
+      "amplifyData": {
+        "slugName": "performance-tyres",
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F33",
+        "backgroundColor": "#D4000F1a",
+        "amplifyEyebrow": "What bad fitment actually costs you",
+        "amplifyheader": {
+          "highlight": "Feel Wrong",
+          "main": "The Wrong Tyre Doesn't Just",
+          "second": "It Costs You More Than You Think"
+        },
+        "amplifyPhara": "It's not just the price of the tyre. It's everything your car can't do properly when it's not running what it should be.",
+        "amplifyCal": "false",
+        "amplifyItems": [
+          {
+            "tag": "Handling",
+            "number": "/performance_icons/heartbeat-icon.png",
+            "title": "Cornering precision you paid for gone",
+            "desc": "Your suspension geometry is tuned around a specific tyre width and profile. Wrong spec means the geometry can't do what it was set up to do."
+          },
+          {
+            "tag": "Safety",
+            "number": "/performance_icons/safety-icon.png",
+            "title": "Braking distances increase significantly",
+            "desc": "Compound quality is the single biggest factor in wet braking. An inferior compound can add 5–10 metres of stopping distance in the wet at 100km/h."
+          },
+          {
+            "tag": "Insurance",
+            "number": "/performance_icons/alert-triangle-icon.png",
+            "title": "Wrong speed rating can void your cover",
+            "desc": "If your vehicle specifies a Y rated tyre and a shop fits W rated, your insurer may refuse a claim if you're involved in an incident. Most drivers don't know until it's too late."
+          },
+          {
+            "tag": "TPMS",
+            "number": "/performance_icons/monitor-icon.png",
+            "title": "A TPMS warning light that never goes away",
+            "desc": "Most generic shops don't have the equipment to reset TPMS sensors after fitment. That light stays on. That's on your dash every drive, every time you look down."
+          },
+          {
+            "tag": "Alignment",
+            "number": "/performance_icons/menu-icon.png",
+            "title": "Expensive tyres wearing unevenly from day one",
+            "desc": "Alignment done to OEM spec on a modified car can mean the inner edge of your tyre wears out in 10,000km. The money you saved on the tyre is gone, twice over."
+          },
+          {
+            "tag": "Staggered",
+            "number": "/performance_icons/globe-icon.png",
+            "title": "Staggered fitment botched by a shop that doesn't know",
+            "desc": "Front and rear widths are different for a reason. A shop that swaps them \"because it's easier\" has just changed the handling balance of your car. Probably without telling you."
+          }
+        ],
+        "amplifyKickerlbl": "The bottom line",
+        "amplifyKickerHeader": {
+          "highlightColor": "#D4000F",
+          "highlight": "Lives Or Dies ",
+          "main": "Everything You've Built On Your Car",
+          "second": "On The Contact Patch."
+        },
+        "amplifyKickerPhara": "The right tyre, fitted correctly, with the right alignment that's where the investment pays off. Everything else is just noise.",
+        "amplifyKickerBtn": "Talk to someone who gets it"
+      },
+      "solutionData": {
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F",
+        "backgroundColor": "#D4000F1a",
+        "solutionEyebrow": "A different kind of tyre shop",
+        "solutionHeader": {
+          "main": "Kewdale Tyrepower",
+          "highlight": "Performance Knowledge.",
+          "second": "Expert Fitment. Your Spec."
+        },
+        "solutionPhara1": "We've been fitting performance tyres to Perth's serious drivers for many years. We stock the brands that matter Michelin Pilot Sport, Pirelli P Zero, Continental SportContact, Bridgestone Potenza and we know the difference between them, not just the names.",
+        "solutionPhara2": "When you tell us the tyre you want, we know it. We won't try to substitute it. And when you ask about compound trade offs between summer and all season performance rubber, we'll have an actual answer not a Google search.",
+        "solutionPhara3": "Every fitment is done on computerised equipment, with correct torque specs and 4 wheel alignment available. Because that's what the job actually requires.",
+        "solutionPromiseLbl": "Our Standard",
+        "solutionPromiseDecs": "\"Your spec, your brand, fitted properly. If we wouldn't put it on our own car, we won't put it on yours.\"",
+        "solutionPillarItems": [
+          {
+            "num": "01",
+            "title": "We Stock What Performance Cars Actually Need",
+            "desc": "Pilot Sport 4S, P Zero, SportContact 7, Potenza RE 71RS, DirezzaZ III in the sizes your car actually runs. Not just what's popular on the 14 inch rack."
+          },
+          {
+            "num": "02",
+            "title": "Spec matched Advice From People Who Actually Know",
+            "desc": "Load index, speed rating, staggered setups, run flat compatibility, UTQG ratings we discuss these because they matter, not to impress you."
+          },
+          {
+            "num": "03",
+            "title": "Fitment Done to a Higher Standard",
+            "desc": "Computerised balancing, correct wheel torque, and the option of 4 wheel precision alignment calibrated to your actual setup not the OEM sheet."
+          },
+          {
+            "num": "04",
+            "title": "We Treat You Like You Know Your Car Because You Do",
+            "desc": "No upsells to a tyre you didn't ask for. No talking down to you. No \"all tyres are basically the same.\" You know what you want we know how to fit it properly."
+          }
+        ],
+        "solutionRoadMapItems": [
+          {
+            "num": "01",
+            "title": "Tell Us Your Spec",
+            "desc": "Size, brand preference, setup details. We'll confirm stock and quote all in.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 1"
+          },
+          {
+            "num": "02",
+            "title": "Book Your Slot",
+            "desc": "Same day and next day slots available. No waiting around.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 2"
+          },
+          {
+            "num": "03",
+            "title": "Expert Fitment",
+            "desc": "Correct torque, computerised balance, TPMS reset. Done right.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 3"
+          },
+          {
+            "num": "04",
+            "title": "Drive Away Properly",
+            "desc": "Aligned, balanced, and performing exactly as it should.",
+            "icon": "",
+            "gradient": "from-blue-500 to-indigo-600",
+            "label": "Step 4"
+          }
+        ]
+      },
+      "servicesData": {
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F33",
+        "backgroundColor": "#D4000F1a",
+        "serviceEyebrow": "What we offer",
+        "serviceHeader": {
+          "main": "Performance Services.",
+          "highlight": "Properly Done."
+        },
+        "serviceTopBtn": "Book Now",
+        "proServiceCard": {
+          "icon": "",
+          "lbl": "Performance Specialist",
+          "title": "Performance Tyre Fitment",
+          "time": "90 minutes",
+          "description": "The full performance fitment service spec confirmed, brand in stock, computerised balance,and correct torque. Not just a tyre swap.",
+          "includes": [
+            "Supply + expert fitment",
+            "Computerised balancing",
+            "Tyer rotation",
+            "Spec confirmed before fitment"
+          ],
+          "cta": "Book now"
+        },
+        "serviceCardItem": [
+          {
+            "icon": "/performance_icons/crosshair.png",
+            "title": "4 Wheel Precision Alignment",
+            "time": "45 minutes",
+            "description": "Alignment calibrated to your actual setup not just OEM spec. Critical for lowered cars, modified suspension, and any car with camber or caster adjustments.",
+            "includes": [
+              "All 4 wheels aligned",
+              "Before & after report",
+              "Setup specific discussion"
+            ],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/performance_icons/activity.png",
+            "title": "Wheel Balancing",
+            "time": "45 minutes",
+            "description": "Vibration through the steering wheel? Uneven wear? Dynamic balancing eliminates the issue and extends tyre life significantly.",
+            "includes": ["Dynamic computerised balancing", "All four wheels"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/performance_icons/arrow_left_right.png",
+            "title": "Staggered Fitment",
+            "time": "90 minutes",
+            "description": "Different front and rear widths fitted and balanced correctly not swapped because it's easier. We understand why staggered exists and we respect the spec.",
+            "includes": [
+              "F/R sizes confirmed separately",
+              "Correct directional orientation"
+            ],
+            "cta": "Book Now"
+          },
+          {
+            "icon": "/performance_icons/safety-icon.png",
+            "title": "Run Flat Fitment",
+            "time": "90 minutes",
+            "description": "Run flat tyres require specific equipment and technique. We have both. OEM spec replacements for BMW, Mercedes, Lexus, Audi, and others fitted correctly.",
+            "includes": ["Correct tyre machine tooling"],
+            "cta": "Book now"
+          },
+          {
+            "icon": "/performance_icons/clipboard_list.png",
+            "title": "Spec Consultation",
+            "time": "15–20 minutes",
+            "description": "Not sure what your build needs? Bring your setup specs and let's talk through it compound trade offs, sizing options, alignment considerations. No charge.",
+            "includes": [
+              "Full technical discussion",
+              "No obligation whatsoever"
+            ],
+            "cta": "Book a chat"
+          }
+        ],
+        "bottomServiceItems": [
+          "Track day prep",
+          "Lowered vehicles",
+          "Wide body fitments",
+          "Performance SUVs",
+          "EV fitments"
+        ]
+      },
+      "offerData": {
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F33",
+        "backgroundColor": "#D4000F1a",
+        "offerEyebrow": "Choose your package",
+        "offerHeader": {
+          "highlightColor": "#D4000F",
+          "highlight": "All Inclusive.",
+          "mainSubOne": "Performance Fitment. ",
+          "mainSubTwo": ""
+        },
+        "offerPhara": "Every price below includes supply, fitment, computerised balancing, and valve stems. No extras.",
+        "offerCartOneTitle": "Street Performance",
+        "offerCardOneDecs": "Reliable performance rubber that delivers solid handling dynamics without breaking the bank.",
+        "offerCardOnePrice": "149",
+        "offerCardOneSubPhara": "All major brands in stock",
+        "offerCardOneLbl": "Includes",
+        "offerCardOneInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardOneBtn": "Book Now",
+        "offerCardTwoBadge": "Most Popular Best Value For Money",
+        "offerCartTwoTitle": "Total Performance",
+        "offerCardTwoDecs": "Best Value. The complete setup for enthusiasts: fresh rubber, a tailored performance alignment.",
+        "offerCardTwoPrice": "705",
+        "offerCardTwoSubPhara": "Tyre + alignment + full check",
+        "offerCardTwoLbl": "Everything in Street Performance,, plus",
+        "offerCardTwoInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing",
+          "Full tyre rotation",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardTwoIncludedBonus": [
+          "Bonus: Priority booking for next visit",
+          "Bonus: At 5,000 km: One-time free tyre checkup. Every 10,000 km (up to 50,000 km): Rotation, balancing, alignment + 10% off the total bill."
+        ],
+        "offerCardTwoIncludeOthers": [
+        ],
+        "offerCardTwoBtn": "Book Now",
+        "offerCartThreeTitle": "Precision Handling",
+        "offerCardThreeDecs": "Upgraded with a professional wheel alignment to optimize the tyre's contact patch for better cornering grip.",
+        "offerCardThreePrice": "258",
+        "offerCardThreeSubPhara": "Tyre + alignment",
+        "offerCardThreeLbl": "Everything in Street Performance, plus",
+        "offerCardThreeInclude": [
+          "Tyre supply (your choice of brand)",
+          "Professional fitment",
+          "Wheel balancing &amp; tyre rotation",
+          "Bonus: Priority booking",
+          "Computerised wheel alignment",
+          "Before &amp; after alignment report",
+          "Tyre pressure set",
+          "Old tyre disposal",
+          "40000km-50000km durability (Depends on the brand)"
+        ],
+        "offerCardThreeBtn": "Book Now",
+        "offerCartFourTitle": "Extend Care",
+        "offerCardFourDecs": "Precision upkeep to keep performance tyres gripping at their best.",
+        "offerCardFourPrice": "59",
+        "offerCardFourSubPhara": "Per scheduled visit",
+        "offerCardFourLbl": "What's included",
+        "offerCardFourInclude": [
+          "Every 10,000km: rotation & balance",
+          "Free alignment check each visit",
+          "Priority performance booking slot",
+          "10% off your total bill"
+        ],
+        "offerCardFourBtn": "Add Extend Care",
+        "offerValueEyeBrow": "What you’re actually getting",
+        "offerValueHeader": "The Total Performance Package Everything Stacked Up",
+        "offerValueItems": [
+          {
+            "name": "Total Performance tyre supply & fitment",
+            "price": "$596",
+            "bonus": false
+          },
+          {
+            "name": "Wheel balancing & rotation",
+            "price": "$140",
+            "bonus": false
+          },
+          {
+            "name": "Computerised wheel alignment",
+            "price": "$109",
+            "bonus": false
+          },
+          {
+            "name": "Tyre Disposal",
+            "price": "$20",
+            "bonus": true
+          }
+        ],
+        "offerSaveLbl": "You save up to",
+        "offerSavePrice": "160",
+        "offerSaveSubLbl": "Worth of services included in your per tyre price",
+        "offerSaveBtn": "Book This Package",
+        "offerTotalLbl": "Your Total Performance Package price",
+        "offerTotalOldPrice": "From $865",
+        "offerTotalPrice": "705"
+      },
+      "guaranteeData": {
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F33",
+        "backgroundColor": "#D4000F1a",
+        "guranteeEyebrow": "Zero compromise",
+        "guranteeheader": {
+          "highlightColor": "#D4000F",
+          "highlight": "That's What Gets Fitted.",
+          "mainSubOne": " You Ordered A Specific Tyre.",
+          "mainSubTwo": ""
+        },
+        "guranteePhara": "No substitutes. No \"close enough.\" No fitting whatever's on the shelf because your size is \"a bit tricky.\" Your spec is your spec we honour it, or we tell you honestly if we can't before the job starts.",
+        "guranteeSealIcon": "",
+        "guranteeSealTitle": "Spec,Correct",
+        "guranteeSealSubTitle": "GUARANTEED",
+        "guranteeSealCaption": "Right brand, right size, right rating. If we fit the wrong spec, we fix it immediately at no charge.",
+        "guranteePoint": [
+          {
+            "icon": "/performance_icons/check.png",
+            "title": "Spec Correct Fitment Guarantee",
+            "description": "Correct brand, model, size, load index and speed rating every time. If we fit anything other than what was confirmed, we replace it free."
+          },
+          {
+            "icon": "/performance_icons/gauge.png",
+            "title": "TPMS Clear Guarantee",
+            "description": "Your TPMS system will be properly reset after fitment. If a warning light appears within 48 hours as a result of our work, we fix it at no charge."
+          },
+          {
+            "icon": "/performance_icons/handshake.png",
+            "title": "Honest Before We Start",
+            "description": "If we can't source your specific tyre or aren't confident in the job, we tell you before we touch your car not after. Your time matters too much for surprises."
+          }
+        ],
+        "guranteeSigQuote": "\"Your car is built to a standard. We meet it.\""
+      },
+      "hvcoData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#080C14",
+        "iconBackColor": "#D4000F",
+        "hvcoEyebrow": "Free Download Enthusiast Edition",
+        "hvcoheader": {
+          "highlightColor": "#D4000F",
+          "highlight": "Suits Your Setup?",
+          "mainSubOne": "Which Performance Tyre Actually ",
+          "mainSubTwo": ""
+        },
+        "hvcoPhara": "Before you commit to a tyre you've been reading about on forums, grab our \"Perth Performance Tyre Selector Guide\" an honest breakdown of which tyres work best for which builds, driving styles, and conditions.",
+        "hvcoItems": [
+          "Compound comparison chart PS4S vs P Zero vs SC7 vs Potenza Sport for daily, sport, track",
+          "Speed and load rating decoder what your OEM spec actually means and when to go higher",
+          "Staggered fitment guide sizing, rotation restrictions, and what to tell your shop",
+          "Alignment spec guide for modified cars what numbers to target and why OEM isn't always right",
+          "Track prep checklist pressures, wear markers, and what to inspect after a session"
+        ],
+        "hvcoFormLbl": "Send me the performance guide",
+        "hvcoFormInput": [
+          {
+            "name": "name",
+            "placeholder": "First name"
+          },
+          {
+            "name": "car",
+            "placeholder": "Your car (e.g. WRX STI, M3, IS350)"
+          },
+          {
+            "name": "email",
+            "placeholder": "Email address"
+          }
+        ],
+        "hvcoFormBtn": "Download Free Guide Instant Access",
+        "hvcoFormBottomLbl": "No spam. Car info helps us personalise the guide to your setup.",
+        "hvcoGuideCoverLbl": "Enthusiast Guide",
+        "hvcoGuidHeadLine": {
+          "highlight": " Performance ",
+          "main": "Perth",
+          "second": "Tyre Selector"
+        },
+        "hvcoGuideCoverSub": "Which tyre actually suits your build, driving style, and conditions a straight talking compound by compound breakdown.",
+        "hvcoCoverBy": "KEWDALE TYREPOWER",
+        "hvcoCoverPages": "34 pages · Free instant download",
+        "hvcoGuideValuesitems": [
+          {
+            "lable": "Compound comparison chart",
+            "price": "$35",
+            "isFree": false
+          },
+          {
+            "lable": "Alignment spec guide",
+            "price": "$25",
+            "isFree": false
+          },
+          {
+            "lable": "Track day prep checklist",
+            "price": "$20",
+            "isFree": false
+          },
+          {
+            "lable": "Your cost today",
+            "price": "FREE",
+            "isFree": true
+          }
+        ]
+      },
+      "faqData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#D4000F1a",
+        "iconBackColor": "#D4000F12",
+        "boarderColor": "#D4000F33",
+        "faqEyebrow": "Technical questions",
+        "faqheader": {
+          "highlightColor": "#D4000F",
+          "highlight": "Answers.",
+          "mainSubOne": "Real ",
+          "mainSubTwo": "No Padding."
+        },
+        "faqPhara": "The questions we get from drivers who actually know their cars answered straight.",
+        "faqContactLbl": "Want to talk spec?",
+        "faqContactTitle": "Call us directly",
+        "faqContactSub": "Tell us your build and we'll talk through what goes on it.",
+        "faqContactSubBtn": "Book Fitment",
+        "faqCatTopicOne": "Specs & Technical",
+        "faqCatTopicTwo": "Alignment & Setup",
+        "faqCatTopicThree": "Stock & Sourcing",
+        "faqQAItem1": [
+          {
+            "quection": "Can you fit the exact tyre I specify not a substitute?",
+            "answer": "Yes always. If you specify a Michelin Pilot Sport 4S in 255/35/19 ZR Y, that's what we source and fit. If we don't have it in stock we'll tell you and source it, not substitute it with whatever's on the shelf. If for any reason we can't get it, we tell you before the job starts."
+          },
+          {
+            "quection": "Do you understand staggered fitments and directional tyres?",
+            "answer": "Yes. Staggered setups are fitted with correct front/rear sizing maintained, directional tyres are mounted with the correct rotation orientation, and we note rotation restrictions on staggered non directional setups. We'll talk through it before fitting if anything needs discussing."
+          },
+          {
+            "quection": "Can you handle run flat fitments properly?",
+            "answer": "Yes we have the correct equipment for run flat fitment. Run flats have a reinforced sidewall that requires specific tyre machine tooling. We use it properly. TPMS is reset as part of every run flat job."
+          }
+        ],
+        "faqQAItem2": [
+          {
+            "quection": "Can you align my car to a setup specific spec rather than just OEM?",
+            "answer": "Yes. If you've got coilovers, adjustable arms, or a specific camber target in mind bring your spec sheet or tell us your goals and we'll dial the car to suit your actual setup. OEM spec on a modified car often isn't right, and we know it."
+          },
+          {
+            "quection": "",
+            "answer": ""
+          },
+          {
+            "quection": "",
+            "answer": ""
+          }
+        ],
+        "faqQAItem3": [
+          {
+            "quection": "Do you stock performance sizes 19\", 20\", low profiles?",
+            "answer": "Yes including many sizes that other shops can't get same day. Our performance stock range covers most common enthusiast sizes. Call us with your spec and we'll confirm availability before you drive out.(Subject to availability. While we stock an extensive range, ultra-rare sizes may require a custom order)."
+          },
+          {
+            "quection": "Can you source AO, MO, or other OEM homologated marks?",
+            "answer": "Yes. AO (Audi Original), MO (Mercedes Original), J (Jaguar), N0/N1 (Porsche), AMP (Aston Martin), and Ferrari/Lamborghini homologated variants we can source and fit OEM spec marked tyres for vehicles that specify them. We understand why these marks exist and won't try to talk you out of the correct spec."
+          }
+        ]
+      },
+      "urgencyData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#9A000A",
+        "iconBackColor": "rgba(212,0,15,.1)",
+        "urgencyEyebrow": "Performance stock limited quantities",
+        "urgencyheader": "Performance Sizes Go Fast.",
+        "urgencySecHeader": "The specific tyre you want may not be here next week.",
+        "urgencyPhara": "Performance and UHP tyres in specific sizes aren't high volume items. If we have your spec in stock now, that changes. And the next shop with same day availability might be offering you a substitute.",
+        "urgencySubPhara": [
+          "Pilot Sport 4S and P Zero in common performance sizes confirmed in stock today",
+          "4 wheel alignment slots available to book alongside fitment",
+          "Worn or cracked performance rubber is a safety issue don't delay if your tyres are telling you"
+        ],
+        "urgencySlotBoxLbl": "Today's performance fitment slots",
+        "urgencySlotBoxCount": "4",
+        "urgencySlotBoxUnit": "slots remaining",
+        "urgencySlotBoxSub": "Performance fitments take longer book early.",
+        "urgencySlotBoxPrimaryBtn": "Book Performance Fitment",
+        "urgencySlotBoxSecBtn": "Call to confirm stock",
+        "urgencyStrip": [
+          {
+            "icon": "",
+            "stripDescription": "Exact spec fitted no substitutes"
+          },
+          {
+            "icon": "",
+            "stripDescription": "4 wheel precision alignment available"
+          }
+        ]
+      },
+      "bookingData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#0d1b2a",
+        "accentColor": "#c9a84c",
+        "bookingEyebrow": "Book Online",
+        "bookingHeader": "Book Your Performance Fitment",
+        "bookingPhara": "Tell us your spec and when you want it in. We'll confirm your slot within the hour and have the right rubber ready.",
+        "bookingTrustPoints": [
+          "No deposit required to book",
+          "Correct torque & TPMS reset included",
+          "Upfront price no surprises",
+          "Staggered & run-flat capable"
+        ],
+        "bookingServiceTypes": [
+          "Tyre Replacement",
+          "Wheel Alignment",
+          "Tyre Rotation",
+          "Safety Check",
+          "Flat Tyre Repair",
+          "Wheel Balancing",
+          "Other"
+        ],
+        "bookingBtn": "Confirm My Booking",
+        "bookingSuccessTitle": "Booking Received!",
+        "bookingSuccessPhara": "We'll confirm your appointment shortly. Check your email for details.",
+        "bookingErrorPhara": "Something went wrong. Please try again or call us on (08) 9359 1444."
+      },
+      "closeData": {
+        "sectionColor": "#D4000F",
+        "backgroundColor": "#D4000F1a",
+        "iconBackColor": "rgba(212,0,15,.1)",
+        "boarderColor": "#D4000F33",
+        "sectionThirteenEyebrow": "Your move",
+        "sectionThirteenHeading": {
+          "main": "Drivers Who Know Their Cars Deserve A Shop That Does Too.",
+          "highlight": "Kewdale Tyrepower. Performance Done Right."
+        },
+        "sectionThirteenPhara": "Your spec, your brand, fitted correctly with the technical knowledge to back it up. Book your slot now and let's get your car on the right rubber.",
+        "sectionThirteenPrimaryBtn": "Book Performance Fitment",
+        "sectionThirteenSecBtn": "Call (08) 9359 1444",
+        "sectionThirteenCloseTrust": [
+          {
+            "icon": "",
+            "description": "Exact spec guaranteed"
+          },
+          {
+            "icon": "",
+            "description": "4 wheel alignment available"
+          },
+          {
+            "icon": "",
+            "description": "4.7 stars · 300+ reviews"
+          }
+        ],
+        "sectionThirteenCloseInfo": [
+          {
+            "id": 1,
+            "infoTitle": "Find Us in Kewdale",
+            "infoDescription": "Serving Perth's car scene from Kewdale central, easy to reach, easy to park."
+          },
+          {
+            "id": 2,
+            "infoTitle": "Trading Hours",
+            "infoDescription": "Mon – Fri: 8:00 AM – 5:00 PM,Saturday: 8:00 AM – 12:00 PM,Sunday: Closed,Performance slots book out fast book ahead."
+          },
+          {
+            "id": 3,
+            "infoTitle": "Get In Touch",
+            "infoDescription": "Phone: (08) 9359 1444,Email: kewdale@tyrepower.com.au,Tell us your car and your spec and we'll talk through it."
+          }
+        ],
+        "sectionThirteenCloseFooter": [
+          {
+            "label": "Privacy Policy",
+            "target": "privacy-policy"
+          },
+          {
+            "label": "Terms",
+            "target": "terms-of-service"
+          },
+          {
+            "label": "Performance Brands",
+            "target": "proof"
+          },
+          {
+            "label": "Performance tyre",
+            "target": "service"
+          },
+          {
+            "label": "Google Reviews",
+            "target": "testimonials"
+          }
+        ]
+      },
+      "testimonialsData": {
+        "sectionColor": "#D4000F",
+        "borderColor": "#D4000F33",
+        "backgroundColor": "#D4000F1a",
+        "testimonialsEyeBrow": "Enthusiasts who found their shop",
+        "testimonialsHeader": {
+          "highlightColor": "#D4000F",
+          "highlight": "Your Spec",
+          "mainSubOne": "The Shop That Actually Respects",
+          "mainSubTwo": "No Substitutes."
+        },
+        "testimonialsTopReviewSection": "Went in wanting Pilot Sport 4S in 255/35/19. They tried to sell me a Hankook Ventus instead. Called it 'basically the same thing.' It is not. Found Kewdale they had the PS4S in stock, fitted same day, no substitution talk. Finally.",
+        "testimonialsTopReviewSectionInitials": "CP",
+        "testimonialsTopReviewSectionName": "Chris P.",
+        "testimonialsTopReviewSectionMeta": "M4 Competition · Perth",
+        "testimonialsHeaderReviewCardItems": [
+          {
+            "tag": "Staggered",
+            "text": "Staggered setup on my 335i different widths front and rear. They got it exactly right, confirmed rotation restrictions, and didn't swap them \"because it's easier.\" Know what they're doing.",
+            "initials": "MT",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "Matt T.",
+            "meta": "E92 335i · Belmont"
+          },
+          {
+            "tag": "Alignment",
+            "text": "Lowered car, adjustable arms, needed a proper alignment. Took the time to dial it to my spec, not OEM numbers. Car drives better than it ever has.",
+            "initials": "JS",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "James S.",
+            "meta": "WRX STI · Carlisle"
+          },
+          {
+            "tag": "TPMS",
+            "text": "Previous shop fitted new tyres but couldn't reset the TPMS. Drove around with a warning light for weeks. Kewdale fixed it in 30 mins. Proper service.",
+            "initials": "AW",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "Alex W.",
+            "meta": "Golf R · Victoria Park"
+          },
+          {
+            "tag": "No Substitute",
+            "text": "Specified P Zero in OEM size for my RS3. They had it in stock, fitted same day. Didn't try to sell me a cheaper alternative. Refreshing.",
+            "initials": "TN",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "Tony N.",
+            "meta": "RS3 · Kewdale"
+          },
+          {
+            "tag": "Run Flat",
+            "text": "Run flat replacement on my BMW. They used the right machine tooling, didn't damage the rim, and TPMS reset without me asking. Exactly what a dealer charges double for.",
+            "initials": "DB",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "Dave B.",
+            "meta": "M340i · Welshpool"
+          },
+          {
+            "tag": "Knowledge",
+            "text": "Asked about compound differences between Cup 2 and PS4S for daily and occasional track. Got a detailed answer, not a blank look. They actually know tyres.",
+            "initials": "RN",
+            "gradient": "linear-gradient(135deg,#D4000F,#9A000A)",
+            "name": "Ryan N.",
+            "meta": "GTI Clubsport · Perth"
+          }
+        ],
+        "testimonialsBottomReviewSectionLbl": "Perth's serious drivers trust Kewdale with their builds.",
+        "testimonialsBottomReviewSectionSub": "Your car deserves the same attention.",
+        "testimonialsBottomReviewSectionSubBtn": "Book Performance Fitment"
+      }
+    }
+  ]
+}
