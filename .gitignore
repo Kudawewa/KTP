@@ -1,0 +1,23 @@
+# Root (no package.json belongs here — app lives in web/)
+/node_modules/
+
+# Website
+web/node_modules/
+web/.next/
+web/.env*
+
+# Admin dashboard
+admin/node_modules/
+admin/.next/
+admin/.env*
+admin/next-env.d.ts
+admin/*.tsbuildinfo
+
+# Go backend
+backend/backend
+backend/backend.exe
+backend/.env
+
+# General
+.DS_Store
+*.pem
